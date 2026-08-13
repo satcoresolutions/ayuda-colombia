@@ -1,0 +1,27 @@
+[
+  {
+    "id": "nacional",
+    "nombre": "Todo el país",
+    "esZonaAfectada": false
+  },
+  {
+    "id": "choco",
+    "nombre": "Chocó",
+    "esZonaAfectada": true
+  },
+  {
+    "id": "risaralda",
+    "nombre": "Risaralda",
+    "esZonaAfectada": true
+  },
+  {
+    "id": "valle-del-cauca",
+    "nombre": "Valle del Cauca",
+    "esZonaAfectada": true
+  },
+  {
+    "id": "caldas",
+    "nombre": "Caldas",
+    "esZonaAfectada": true
+  }
+]

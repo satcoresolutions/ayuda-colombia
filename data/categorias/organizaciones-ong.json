@@ -1,0 +1,152 @@
+[
+  {
+    "id": "cruz-roja-colombiana",
+    "nombre": "Cruz Roja Colombiana",
+    "tipo": "ong-internacional",
+    "descripcion": "Atención humanitaria, primeros auxilios, búsqueda y rescate ante desastres",
+    "areasDeAccion": ["salud", "rescate-emergencia", "logistica", "apoyo-psicosocial"],
+    "cobertura": {
+      "alcance": "nacional",
+      "departamentos": ["nacional"]
+    },
+    "contacto": {
+      "telefono": "601 437 6300",
+      "whatsapp": "311 825 1962",
+      "email": "donaciones@cruzrojacolombiana.org",
+      "sitioWeb": "https://www.cruzrojacolombiana.org"
+    },
+    "redesSociales": {
+      "facebook": "https://facebook.com/CruzRojaColombiana",
+      "instagram": "https://instagram.com/cruzrojacolombiana",
+      "twitter": "https://twitter.com/CruzRojaCol",
+      "tiktok": null
+    },
+    "donaciones": {
+      "aceptaDineroDirecto": true,
+      "cuentaBancaria": {
+        "banco": "Davivienda",
+        "tipoCuenta": "corriente",
+        "numeroCuenta": "VERIFICAR EN SITIO OFICIAL - fuentes de prensa reportan números distintos",
+        "titular": "Sociedad Nacional de la Cruz Roja Colombiana",
+        "nit": "899.999.025-3"
+      },
+      "linkDonacionOnline": "https://dona.cruzrojacolombiana.org",
+      "aceptaEspecie": true,
+      "puntosRecepcion": [
+        {
+          "nombre": "Palacio de los Deportes (uno de los puntos de acopio en Bogotá)",
+          "direccion": "Calle 63 #59A-06",
+          "ciudad": "Bogotá",
+          "horario": "Confirmar horario vigente en sitio oficial"
+        }
+      ]
+    },
+    "verificada": true,
+    "ultimaActualizacion": "2026-08-13"
+  },
+  {
+    "id": "banco-alimentos-bogota",
+    "nombre": "Banco de Alimentos de Bogotá",
+    "tipo": "fundacion-nacional",
+    "descripcion": "Recolección y distribución de alimentos hacia zonas afectadas, campaña #JuntosContraElHambre",
+    "areasDeAccion": ["alimentacion", "logistica"],
+    "cobertura": {
+      "alcance": "nacional",
+      "departamentos": ["Chocó", "Risaralda", "Caldas", "Valle del Cauca"]
+    },
+    "contacto": {
+      "telefono": null,
+      "whatsapp": null,
+      "email": null,
+      "sitioWeb": "https://www.bancodealimentos.org.co"
+    },
+    "redesSociales": {
+      "facebook": null,
+      "instagram": null,
+      "twitter": null,
+      "tiktok": null
+    },
+    "donaciones": {
+      "aceptaDineroDirecto": true,
+      "cuentaBancaria": null,
+      "linkDonacionOnline": "https://www.bancodealimentos.org.co",
+      "metodoAlterno": "Transferencia Bre-B a la llave 0091677852, o desde la sección 'Turbo' de la app Rappi",
+      "aceptaEspecie": true,
+      "puntosRecepcion": []
+    },
+    "verificada": true,
+    "ultimaActualizacion": "2026-08-13"
+  },
+  {
+    "id": "fundacion-solidaridad-colombia",
+    "nombre": "Fundación Solidaridad por Colombia",
+    "tipo": "fundacion-nacional",
+    "descripcion": "Canalización de donaciones económicas hacia zonas afectadas por el sismo",
+    "areasDeAccion": ["logistica", "techo-vivienda", "alimentacion"],
+    "cobertura": {
+      "alcance": "nacional",
+      "departamentos": ["nacional"]
+    },
+    "contacto": {
+      "telefono": null,
+      "whatsapp": null,
+      "email": null,
+      "sitioWeb": null
+    },
+    "redesSociales": {
+      "facebook": null,
+      "instagram": null,
+      "twitter": null,
+      "tiktok": null
+    },
+    "donaciones": {
+      "aceptaDineroDirecto": true,
+      "cuentaBancaria": {
+        "banco": "Bancolombia",
+        "tipoCuenta": "no especificada",
+        "numeroCuenta": "167-000109-63",
+        "titular": "Fundación Solidaridad por Colombia",
+        "nit": null
+      },
+      "linkDonacionOnline": null,
+      "metodoAlterno": "Llave Bre-B @juntosxcolombia",
+      "aceptaEspecie": false,
+      "puntosRecepcion": []
+    },
+    "verificada": false,
+    "ultimaActualizacion": "2026-08-13"
+  },
+  {
+    "id": "ungrd",
+    "nombre": "Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)",
+    "tipo": "entidad-gubernamental",
+    "descripcion": "Coordinación nacional oficial de la respuesta a la emergencia y priorización de ayuda por municipio",
+    "areasDeAccion": ["rescate-emergencia", "logistica", "maquinaria-pesada"],
+    "cobertura": {
+      "alcance": "nacional",
+      "departamentos": ["nacional"]
+    },
+    "contacto": {
+      "telefono": null,
+      "whatsapp": null,
+      "email": null,
+      "sitioWeb": "https://www.gestiondelriesgo.gov.co"
+    },
+    "redesSociales": {
+      "facebook": null,
+      "instagram": null,
+      "twitter": "https://twitter.com/UNGRD",
+      "tiktok": null
+    },
+    "donaciones": {
+      "aceptaDineroDirecto": false,
+      "cuentaBancaria": null,
+      "linkDonacionOnline": null,
+      "aceptaEspecie": false,
+      "puntosRecepcion": [],
+      "nota": "No recibe donaciones directas; articula y prioriza la ayuda entregada por otras entidades"
+    },
+    "verificada": true,
+    "ultimaActualizacion": "2026-08-13"
+  }
+]

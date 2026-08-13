@@ -1,0 +1,17 @@
+[
+  {
+    "id": "linea-salud-mental",
+    "nombre": "Línea de salud mental Minsalud",
+    "prioridad": "alta",
+    "descripcion": "Línea gratuita nacional de atención en salud mental, disponible 24/7",
+    "cantidadRecomendada": "",
+    "proveedores": [
+      {
+        "nombreTienda": "Línea 192 opción 4 (Minsalud)",
+        "tipo": "nacional",
+        "urlCompra": "https://www.minsalud.gov.co",
+        "departamentosCobertura": ["nacional"]
+      }
+    ]
+  }
+]

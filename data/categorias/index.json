@@ -1,0 +1,110 @@
+[
+  {
+    "id": "techo-vivienda",
+    "nombre": "Techo y vivienda",
+    "icono": "home",
+    "descripcion": "Elementos para protección temporal y reparación de vivienda"
+  },
+  {
+    "id": "agua",
+    "nombre": "Agua potable",
+    "icono": "droplet",
+    "descripcion": "Agua para consumo humano y almacenamiento"
+  },
+  {
+    "id": "aseo-higiene",
+    "nombre": "Aseo e higiene",
+    "icono": "soap",
+    "descripcion": "Insumos de higiene personal y limpieza básica"
+  },
+  {
+    "id": "alimentacion",
+    "nombre": "Alimentación",
+    "icono": "utensils",
+    "descripcion": "Alimentos no perecederos y agua para preparación"
+  },
+  {
+    "id": "salud",
+    "nombre": "Salud y primeros auxilios",
+    "icono": "first-aid-kit",
+    "descripcion": "Botiquín y medicamentos básicos"
+  },
+  {
+    "id": "apoyo-psicosocial",
+    "nombre": "Apoyo psicológico",
+    "icono": "heart",
+    "descripcion": "Líneas de ayuda y contactos de apoyo emocional, no productos"
+  },
+  {
+    "id": "ropa-abrigo",
+    "nombre": "Ropa y abrigo",
+    "icono": "shirt",
+    "descripcion": "Prendas de vestir, cobijas y elementos de protección contra el clima"
+  },
+  {
+    "id": "herramientas",
+    "nombre": "Herramientas",
+    "icono": "hammer",
+    "descripcion": "Herramientas manuales para reconstrucción y limpieza de escombros"
+  },
+  {
+    "id": "maquinaria-pesada",
+    "nombre": "Maquinaria pesada",
+    "icono": "truck",
+    "descripcion": "Retroexcavadoras, volquetas y equipos para remoción de escombros"
+  },
+  {
+    "id": "logistica",
+    "nombre": "Logística y transporte",
+    "icono": "route",
+    "descripcion": "Vehículos, combustible y coordinación para movilizar ayuda"
+  },
+  {
+    "id": "energia",
+    "nombre": "Energía y combustible",
+    "icono": "zap",
+    "descripcion": "Plantas eléctricas, paneles solares, pilas y combustible"
+  },
+  {
+    "id": "comunicaciones",
+    "nombre": "Comunicaciones",
+    "icono": "radio",
+    "descripcion": "Radios, celulares y medios para mantener contacto en zonas afectadas"
+  },
+  {
+    "id": "organizaciones-ong",
+    "nombre": "Organizaciones y colectivos sociales",
+    "icono": "users",
+    "descripcion": "ONG, fundaciones y colectivos que coordinan y canalizan la ayuda"
+  },
+  {
+    "id": "rescate-emergencia",
+    "nombre": "Rescate y emergencia",
+    "icono": "life-buoy",
+    "descripcion": "Equipos de rescate, bomberos y atención inmediata en la zona"
+  },
+  {
+    "id": "cuidado-infantil",
+    "nombre": "Niñez y cuidado infantil",
+    "icono": "baby",
+    "descripcion": "Elementos y espacios de protección para niños y niñas"
+  },
+  {
+    "id": "animales",
+    "nombre": "Atención a animales",
+    "icono": "paw-print",
+    "descripcion": "Alimento, refugio y atención veterinaria para mascotas y animales afectados"
+  },
+  {
+    "id": "voluntariado",
+    "nombre": "Voluntariado",
+    "icono": "hand-heart",
+    "descripcion": "Registro y coordinación de personas que ofrecen su tiempo y trabajo"
+  },
+  {
+    "id": "donaciones-economicas",
+    "nombre": "Donaciones económicas",
+    "icono": "hand-coins",
+    "descripcion": "Canales oficiales para aportes en dinero"
+  }
+]

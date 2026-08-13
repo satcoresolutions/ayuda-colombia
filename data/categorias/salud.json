@@ -1,0 +1,17 @@
+[
+  {
+    "id": "botiquin-basico",
+    "nombre": "Botiquín de primeros auxilios",
+    "prioridad": "alta",
+    "descripcion": "Gasas, antisépticos, analgésicos básicos",
+    "cantidadRecomendada": "1 por familia",
+    "proveedores": [
+      {
+        "nombreTienda": "Farmatodo",
+        "tipo": "nacional",
+        "urlCompra": "https://www.farmatodo.com.co",
+        "departamentosCobertura": ["nacional"]
+      }
+    ]
+  }
+]

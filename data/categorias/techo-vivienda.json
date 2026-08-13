@@ -1,0 +1,39 @@
+[
+  {
+    "id": "carpa-lona",
+    "nombre": "Carpa o lona plástica impermeable",
+    "prioridad": "alta",
+    "descripcion": "Cubre techos dañados o sirve como refugio temporal",
+    "cantidadRecomendada": "1 por familia (mín. 4x6 m)",
+    "proveedores": [
+      {
+        "nombreTienda": "Homecenter",
+        "tipo": "nacional",
+        "urlCompra": "https://www.homecenter.com.co",
+        "departamentosCobertura": ["nacional"]
+      },
+      {
+        "nombreTienda": "Ferretería local Quibdó",
+        "tipo": "local",
+        "urlCompra": "",
+        "departamentosCobertura": ["choco"],
+        "ciudad": "Quibdo"
+      }
+    ]
+  },
+  {
+    "id": "kit-herramientas",
+    "nombre": "Kit de herramientas básico",
+    "prioridad": "media",
+    "descripcion": "Martillo, clavos, alicate, para reparaciones menores",
+    "cantidadRecomendada": "1 por familia",
+    "proveedores": [
+      {
+        "nombreTienda": "Exito",
+        "tipo": "nacional",
+        "urlCompra": "https://www.exito.com",
+        "departamentosCobertura": ["nacional"]
+      }
+    ]
+  }
+]
