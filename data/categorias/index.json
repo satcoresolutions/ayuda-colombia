@@ -3,108 +3,126 @@
     "id": "techo-vivienda",
     "nombre": "Techo y vivienda",
     "icono": "home",
-    "descripcion": "Elementos para protección temporal y reparación de vivienda"
+    "descripcion": "Elementos para protección temporal y reparación de vivienda",
+    "grupo": "necesidades-basicas"
   },
   {
     "id": "agua",
     "nombre": "Agua potable",
     "icono": "droplet",
-    "descripcion": "Agua para consumo humano y almacenamiento"
+    "descripcion": "Agua para consumo humano y almacenamiento",
+    "grupo": "necesidades-basicas"
   },
   {
     "id": "aseo-higiene",
     "nombre": "Aseo e higiene",
     "icono": "soap",
-    "descripcion": "Insumos de higiene personal y limpieza básica"
+    "descripcion": "Insumos de higiene personal y limpieza básica",
+    "grupo": "necesidades-basicas"
   },
   {
     "id": "alimentacion",
     "nombre": "Alimentación",
     "icono": "utensils",
-    "descripcion": "Alimentos no perecederos y agua para preparación"
+    "descripcion": "Alimentos no perecederos y agua para preparación",
+    "grupo": "necesidades-basicas"
   },
   {
     "id": "salud",
     "nombre": "Salud y primeros auxilios",
     "icono": "first-aid-kit",
-    "descripcion": "Botiquín y medicamentos básicos"
+    "descripcion": "Botiquín y medicamentos básicos",
+    "grupo": "necesidades-basicas"
   },
   {
     "id": "apoyo-psicosocial",
     "nombre": "Apoyo psicológico",
     "icono": "heart",
-    "descripcion": "Líneas de ayuda y contactos de apoyo emocional, no productos"
+    "descripcion": "Líneas de ayuda y contactos de apoyo emocional, no productos",
+    "grupo": "necesidades-basicas"
   },
   {
     "id": "ropa-abrigo",
     "nombre": "Ropa y abrigo",
     "icono": "shirt",
-    "descripcion": "Prendas de vestir, cobijas y elementos de protección contra el clima"
+    "descripcion": "Prendas de vestir, cobijas y elementos de protección contra el clima",
+    "grupo": "necesidades-basicas"
   },
   {
     "id": "herramientas",
     "nombre": "Herramientas",
     "icono": "hammer",
-    "descripcion": "Herramientas manuales para reconstrucción y limpieza de escombros"
+    "descripcion": "Herramientas manuales para reconstrucción y limpieza de escombros",
+    "grupo": "logistica-operacion"
   },
   {
     "id": "maquinaria-pesada",
     "nombre": "Maquinaria pesada",
     "icono": "truck",
-    "descripcion": "Retroexcavadoras, volquetas y equipos para remoción de escombros"
+    "descripcion": "Retroexcavadoras, volquetas y equipos para remoción de escombros",
+    "grupo": "logistica-operacion"
   },
   {
     "id": "logistica",
     "nombre": "Logística y transporte",
     "icono": "route",
-    "descripcion": "Vehículos, combustible y coordinación para movilizar ayuda"
+    "descripcion": "Vehículos, combustible y coordinación para movilizar ayuda",
+    "grupo": "logistica-operacion"
   },
   {
     "id": "energia",
     "nombre": "Energía y combustible",
     "icono": "zap",
-    "descripcion": "Plantas eléctricas, paneles solares, pilas y combustible"
+    "descripcion": "Plantas eléctricas, paneles solares, pilas y combustible",
+    "grupo": "logistica-operacion"
   },
   {
     "id": "comunicaciones",
     "nombre": "Comunicaciones",
     "icono": "radio",
-    "descripcion": "Radios, celulares y medios para mantener contacto en zonas afectadas"
+    "descripcion": "Radios, celulares y medios para mantener contacto en zonas afectadas",
+    "grupo": "logistica-operacion"
   },
   {
     "id": "organizaciones-ong",
     "nombre": "Organizaciones y colectivos sociales",
     "icono": "users",
-    "descripcion": "ONG, fundaciones y colectivos que coordinan y canalizan la ayuda"
+    "descripcion": "ONG, fundaciones y colectivos que coordinan y canalizan la ayuda",
+    "grupo": "ayuda-organizada"
   },
   {
     "id": "rescate-emergencia",
     "nombre": "Rescate y emergencia",
     "icono": "life-buoy",
-    "descripcion": "Equipos de rescate, bomberos y atención inmediata en la zona"
-  },
-  {
-    "id": "cuidado-infantil",
-    "nombre": "Niñez y cuidado infantil",
-    "icono": "baby",
-    "descripcion": "Elementos y espacios de protección para niños y niñas"
-  },
-  {
-    "id": "animales",
-    "nombre": "Atención a animales",
-    "icono": "paw-print",
-    "descripcion": "Alimento, refugio y atención veterinaria para mascotas y animales afectados"
+    "descripcion": "Equipos de rescate, bomberos y atención inmediata en la zona",
+    "grupo": "ayuda-organizada"
   },
   {
     "id": "voluntariado",
     "nombre": "Voluntariado",
     "icono": "hand-heart",
-    "descripcion": "Registro y coordinación de personas que ofrecen su tiempo y trabajo"
+    "descripcion": "Registro y coordinación de personas que ofrecen su tiempo y trabajo",
+    "grupo": "ayuda-organizada"
   },
   {
     "id": "donaciones-economicas",
     "nombre": "Donaciones económicas",
     "icono": "hand-coins",
-    "descripcion": "Canales oficiales para aportes en dinero"
+    "descripcion": "Canales oficiales para aportes en dinero",
+    "grupo": "ayuda-organizada"
+  },
+  {
+    "id": "cuidado-infantil",
+    "nombre": "Niñez y cuidado infantil",
+    "icono": "baby",
+    "descripcion": "Elementos y espacios de protección para niños y niñas",
+    "grupo": "poblaciones-especificas"
+  },
+  {
+    "id": "animales",
+    "nombre": "Atención a animales",
+    "icono": "paw-print",
+    "descripcion": "Alimento, refugio y atención veterinaria para mascotas y animales afectados",
+    "grupo": "poblaciones-especificas"
   }
 ]

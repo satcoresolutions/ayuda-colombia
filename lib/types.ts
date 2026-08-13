@@ -6,6 +6,20 @@ export interface Territorio {
   esZonaAfectada: boolean;
 }
 
+export type GrupoCategoria =
+  | "necesidades-basicas"
+  | "logistica-operacion"
+  | "ayuda-organizada"
+  | "poblaciones-especificas";
+
+export interface CategoriaMeta {
+  id: string;
+  nombre: string;
+  icono: string;
+  descripcion: string;
+  grupo: GrupoCategoria;
+}
+
 export interface Proveedor {
   nombreTienda: string;
   tipo: "nacional" | "regional" | "local";
@@ -21,13 +35,6 @@ export interface Item {
   descripcion: string;
   cantidadRecomendada: string;
   proveedores: Proveedor[];
-}
-
-export interface CategoriaMeta {
-  id: string;
-  nombre: string;
-  icono: string;
-  descripcion: string;
 }
 
 export interface Categoria extends CategoriaMeta {
