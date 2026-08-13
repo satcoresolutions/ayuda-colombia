@@ -103,7 +103,7 @@ export type PuntoVoluntariado = {
 
   funciones?: string;
 
-  territorio?: {
+  territorio: {
     departamento?: string;
     municipio?: string;
   };
