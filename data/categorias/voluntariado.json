@@ -1,0 +1,650 @@
+[
+  {
+    "id": "fundacion-taap",
+    "nombre": "Fundación TAAP",
+    "direccion": "Km 1,5 vía Bogotá-Mosquera",
+    "voluntariosUrgentes": true,
+    "actualizadoEn": "2026-08-13T12:00:00-05:00",
+    "horarios": "L-V: 8:00 a.m. - 3:00 p.m.; sábados: 8:00 a.m. - 12:00 p.m.",
+    "notas": "Si vas en carro o moto, mandar placa o número de registro.",
+    "linkInscripcion": "https://docs.google.com/forms/d/1UpclfH_pAtUeYn0da14Q6Ef2HnP2RwwzaLxmdP_cLKw/viewform?ts=6a7d0a63&edit_requested=true",
+    "whatsapp": "",
+    "instagram": "https://www.instagram.com/fundaciontaap/",
+    "contactoClave": "",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Cundinamarca",
+      "municipio": "Mosquera"
+    }
+  },
+  {
+    "id": "122-plaza-apartahotel",
+    "nombre": "122 Plaza Apartahotel",
+    "direccion": "Carrera 15A # 122-27",
+    "voluntariosUrgentes": true,
+    "actualizadoEn": "2026-08-13T12:00:00-05:00",
+    "horarios": "8:00 a.m. - 9:00 p.m.",
+    "notas": "Ingreso por orden de llegada.",
+    "linkInscripcion": "",
+    "whatsapp": "",
+    "instagram": "",
+    "contactoClave": "",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "fundacion-mahuampi",
+    "nombre": "Fundación Mahuampi",
+    "direccion": "Carrera 116A # 15C - 70",
+    "voluntariosUrgentes": true,
+    "actualizadoEn": "2026-08-13T13:00:00-05:00",
+    "horarios": "9:00 a.m. - 5:00 p.m.",
+    "notas": "",
+    "linkInscripcion": "",
+    "whatsapp": "",
+    "instagram": "",
+    "contactoClave": "",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "compensar-cra-60",
+    "nombre": "Compensar Cra. 60",
+    "direccion": "Av. La Esmeralda # 66B-05",
+    "voluntariosUrgentes": true,
+    "actualizadoEn": "2026-08-13T12:10:00-05:00",
+    "horarios": "7:00 a.m. - 3:00 p.m.",
+    "notas": "A las 3:00 p.m. sale un camión hacia Buenaventura con insumos. Se prioriza comida e insumos para mascotas, pero se reciben otros insumos.",
+    "linkInscripcion": "",
+    "whatsapp": "",
+    "instagram": "https://www.instagram.com/reel/Db9y24hOfVI/?igsh=MW90eGhndjB3ZTdhYQ==",
+    "contactoClave": "Pueden preguntar con @estaesmivuelta o @fiorellagrimaldi",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "teatro-de-garaje",
+    "nombre": "Teatro de Garaje",
+    "direccion": "Carrera 10 # 54A-27",
+    "voluntariosUrgentes": true,
+    "actualizadoEn": "2026-08-13T12:00:00-05:00",
+    "horarios": "Desde la 1:00 p.m.",
+    "notas": "",
+    "linkInscripcion": "",
+    "whatsapp": "",
+    "instagram": "",
+    "contactoClave": "",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "taller-distinto",
+    "nombre": "Taller Distinto",
+    "direccion": "Transversal 1 # 83-51",
+    "voluntariosUrgentes": true,
+    "actualizadoEn": "2026-08-13T12:10:00-05:00",
+    "horarios": "Desde la 1:30 p.m.",
+    "notas": "Edificio Altos del Retiro. Preguntar por Taller Distinto. El camión pasa mañana viernes 14 en la tarde.",
+    "linkInscripcion": "",
+    "whatsapp": "",
+    "instagram": "https://www.instagram.com/tallerdistinto/",
+    "contactoClave": "",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "fundacion-mujeres-por-la-democracia",
+    "nombre": "Fundación Mujeres por la Democracia",
+    "direccion": "Carrera 15 # 82-81",
+    "voluntariosUrgentes": true,
+    "actualizadoEn": "2026-08-12T22:00:00-05:00",
+    "horarios": "8:00 a.m. - 5:00 p.m.",
+    "notas": "",
+    "linkInscripcion": "https://docs.google.com/forms/d/1UpclfH_pAtUeYn0da14Q6Ef2HnP2RwwzaLxmdP_cLKw/viewform?ts=6a7d0a63&edit_requested=true",
+    "whatsapp": "",
+    "instagram": "https://www.instagram.com/mujeresporlademocraciacolom/",
+    "contactoClave": "",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "sos-juntos-por-el-choco",
+    "nombre": "SOS Juntos por el Chocó",
+    "direccion": "Calle 38 # 29-29",
+    "voluntariosUrgentes": true,
+    "actualizadoEn": "2026-08-13T13:22:00-05:00",
+    "horarios": "8:00 a.m. - 6:00 p.m.",
+    "notas": "Unirse al chat de WhatsApp o llegar directamente al lugar.",
+    "linkInscripcion": "https://chat.whatsapp.com/FTiedxGDwuoFPkSdE6upns?s=sw&p=i&mlu=4&fbclid=PAcGRvZgRleHRuA2FlbQIxMQBzcnJjBmFwcF9pZAwyNTYyODEwNDA1NTgAAaeB0rEKaDxP_FMHx_68VviRselvj7AE40WBCR-lcdeqnzWsCgjG_VQ5tRfo5A_aem_BF2uhRixVNiKY5XXXRyYjQ",
+    "whatsapp": "https://chat.whatsapp.com/FTiedxGDwuoFPkSdE6upns?s=sw&p=i&mlu=4&fbclid=PAcGRvZgRleHRuA2FlbQIxMQBzcnJjBmFwcF9pZAwyNTYyODEwNDA1NTgAAaeB0rEKaDxP_FMHx_68VviRselvj7AE40WBCR-lcdeqnzWsCgjG_VQ5tRfo5A_aem_BF2uhRixVNiKY5XXXRyYjQ",
+    "instagram": "https://www.instagram.com/soschoco_/",
+    "contactoClave": "",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "bulevar-chapinero",
+    "nombre": "Bulevar Chapinero",
+    "direccion": "Calle 51 # 7-57",
+    "voluntariosUrgentes": true,
+    "actualizadoEn": "2026-08-13T13:22:00-05:00",
+    "horarios": "Desde las 3:00 p.m.",
+    "notas": "El registro original indica 'Desde'. Se conserva la información disponible.",
+    "linkInscripcion": "",
+    "whatsapp": "",
+    "instagram": "",
+    "contactoClave": "",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "carrera-52c-43-45-sur",
+    "nombre": "Punto Carrera 52C # 43-45 Sur",
+    "direccion": "Carrera 52C # 43-45 Sur",
+    "voluntariosUrgentes": true,
+    "actualizadoEn": "2026-08-13T13:22:00-05:00",
+    "horarios": "",
+    "notas": "Se necesitan voluntarios urgente y cajas. Solo llegar.",
+    "linkInscripcion": "",
+    "whatsapp": "",
+    "instagram": "",
+    "contactoClave": "",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "galeria-aborigen",
+    "nombre": "Galería Aborigen",
+    "direccion": "Carrera 6A # 116-17",
+    "voluntariosUrgentes": true,
+    "actualizadoEn": "2026-08-13T12:10:00-05:00",
+    "horarios": "10:00 a.m. - 9:00 p.m.",
+    "notas": "Se necesitan personas el 13 de agosto desde la tarde/noche hasta las 7:00 a.m. del 14 de agosto. También se necesitan personas los días 13, 14, 15 y 16 de agosto.",
+    "linkInscripcion": "https://docs.google.com/forms/d/e/1FAIpQLScgbOf6FmuY3UxTWnP9MiDNokxspw1dgDlCuDExdUbTqqLj2g/viewform",
+    "whatsapp": "https://chat.whatsapp.com/Lke7WRvgvmKAeUqIyMItsb?s=cl&p=i&mlu=4&amv=1",
+    "instagram": "https://www.instagram.com/galeriaaborigen/",
+    "contactoClave": "",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "caracol-radio",
+    "nombre": "Caracol Radio",
+    "direccion": "Calle 67 # 7",
+    "voluntariosUrgentes": true,
+    "actualizadoEn": "2026-08-13T13:41:00-05:00",
+    "horarios": "",
+    "notas": "",
+    "linkInscripcion": "",
+    "whatsapp": "",
+    "instagram": "",
+    "contactoClave": "",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "afnemo",
+    "nombre": "AFNEMO",
+    "direccion": "Carrera 11 # 18A-28 Sur. B. Ciudad Jardín Bogotá Reserva",
+    "voluntariosUrgentes": true,
+    "actualizadoEn": "2026-08-13T14:18:00-05:00",
+    "horarios": "9:00 a.m. - 8:00 p.m.",
+    "notas": "",
+    "linkInscripcion": "",
+    "whatsapp": "",
+    "instagram": "https://www.instagram.com/afnemo_/",
+    "contactoClave": "",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "usaquen-161a",
+    "nombre": "Usaquén",
+    "direccion": "Calle 161A # 7F-55",
+    "voluntariosUrgentes": true,
+    "actualizadoEn": "2026-08-13T15:25:46-05:00",
+    "horarios": "8:00 a.m. - 9:00 p.m.",
+    "notas": "Requieren voluntarios a las 4:00 p.m.",
+    "linkInscripcion": "",
+    "whatsapp": "https://chat.whatsapp.com/GBoAUDFCwoMKPUIoEvsVtL?s=cl&p=i&ilr=2",
+    "instagram": "",
+    "contactoClave": "3108514846, 3125192533, 3208331118, 3114792660, 3155244162",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "cuerpo-bomberos-mosquera",
+    "nombre": "Cuerpo de Bomberos Voluntarios de Mosquera",
+    "direccion": "Calle 2 # 5E-36, Mosquera",
+    "voluntariosUrgentes": true,
+    "actualizadoEn": "2026-08-13T15:25:46-05:00",
+    "horarios": "Desde las 4:30 p.m.",
+    "notas": "Las personas de Funza, Mosquera o Madrid que puedan apoyar deben acercarse el 13 de agosto a partir de las 4:30 p.m. Se necesita especialmente apoyo operativo.",
+    "linkInscripcion": "",
+    "whatsapp": "",
+    "instagram": "",
+    "contactoClave": "",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Cundinamarca",
+      "municipio": "Mosquera"
+    }
+  },
+  {
+    "id": "casa-memoria-usaquen",
+    "nombre": "Casa de la Memoria Usaquén",
+    "direccion": "Usaquén",
+    "voluntariosUrgentes": true,
+    "actualizadoEn": "2026-08-13T15:25:46-05:00",
+    "horarios": "Desde las 4:00 p.m.",
+    "notas": "Solo llegar.",
+    "linkInscripcion": "",
+    "whatsapp": "",
+    "instagram": "",
+    "contactoClave": "",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "fundacion-transformando-vidas",
+    "nombre": "Fundación Transformando Vidas",
+    "direccion": "Carrera 80A # 49-08 Sur",
+    "voluntariosUrgentes": true,
+    "actualizadoEn": "2026-08-13T15:25:46-05:00",
+    "horarios": "Desde las 5:00 p.m.",
+    "notas": "JAC Pastranita Sector 1.",
+    "linkInscripcion": "",
+    "whatsapp": "",
+    "instagram": "",
+    "contactoClave": "",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "vive-claro",
+    "nombre": "Vive Claro",
+    "direccion": "Carrera 60 # 42-41",
+    "voluntariosUrgentes": false,
+    "actualizadoEn": "2026-08-13T13:22:00-05:00",
+    "horarios": "2:00 p.m. - 5:00 p.m.",
+    "notas": "A las 2:00 p.m. volverán a necesitar voluntarios.",
+    "linkInscripcion": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=VHyXFlpS7Ey9K8HEea7b6wSRScHkLPtFsicCOZ0Y3u1UOUlMOUNDMDVOSVdaQ0VGRlU1U1AySE1GUi4u&fbclid=PAcGRvZgRleHRuA2FlbQIxMQBzcnJjBmFwcF9pZAwyNTYyODEwNDA1NTgAAacU2vx-KWd6tDyFPubID-dh9jjVUukSyNZky3AqvwizICFmfYrLogSZwZEdOw_aem_vYM_fkT0wQF1WzgVBdP1qQ&route=shorturl",
+    "whatsapp": "https://chat.whatsapp.com/GewTn2XynZ5IoxelgAqdRC?s=cl&p=i&ilr=2",
+    "instagram": "https://www.instagram.com/viveclaro_co/",
+    "contactoClave": "3162733960, 3046200006, 3217744609",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "minuto-de-dios",
+    "nombre": "Minuto de Dios",
+    "direccion": "",
+    "voluntariosUrgentes": false,
+    "actualizadoEn": "2026-08-13T13:22:00-05:00",
+    "horarios": "L-V: 8:00 a.m. - 4:00 p.m.; sábados: 9:00 a.m. - 1:00 p.m.",
+    "notas": "Recepción de voluntarios a partir del 25 de agosto, según comunicación personal.",
+    "linkInscripcion": "https://chat.whatsapp.com/Dee6lDBdRwiH416RFhJyU6?mode=gi_t&fbclid=PAcGRvZgRleHRuA2FlbQIxMQBzcnJjBmFwcF9pZAwyNTYyODEwNDA1NTgAAadLQ8SyrIV8iEJ3Pbl2h-LkallaHfHtsGq6klT_mhTF5DMGOkJGR6tRUmbK2w_aem_4AmJe58Foun2nCWipJpmpg",
+    "whatsapp": "https://chat.whatsapp.com/Dee6lDBdRwiH416RFhJyU6?mode=gi_t&fbclid=PAcGRvZgRleHRuA2FlbQIxMQBzcnJjBmFwcF9pZAwyNTYyODEwNDA1NTgAAadLQ8SyrIV8iEJ3Pbl2h-LkallaHfHtsGq6klT_mhTF5DMGOkJGR6tRUmbK2w_aem_4AmJe58Foun2nCWipJpmpg",
+    "instagram": "",
+    "contactoClave": "",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "carrera-57r-sur-73i-35",
+    "nombre": "Punto Carrera 57R Sur # 73I-35 Sur",
+    "direccion": "Carrera 57R Sur # 73I-35 Sur",
+    "voluntariosUrgentes": false,
+    "actualizadoEn": "2026-08-13T13:22:00-05:00",
+    "horarios": "Hasta las 6:00 p.m.",
+    "notas": "Solo llegar. Traer marcadores gruesos permanentes y cinta gruesa.",
+    "linkInscripcion": "",
+    "whatsapp": "",
+    "instagram": "https://www.instagram.com/reel/Db_JDABxghQ/?igsh=MzRlZzdoamJmcWxn",
+    "contactoClave": "",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "fundacion-el-combo",
+    "nombre": "Fundación El Combo",
+    "direccion": "Carrera 98 # 156C-10",
+    "voluntariosUrgentes": false,
+    "actualizadoEn": "2026-08-13T15:25:46-05:00",
+    "horarios": "8:00 a.m. - 5:00 p.m.",
+    "notas": "Para ser voluntario hay tres opciones: donar sangre, llevar insumos u organizar. La opción de organización tiene cupos limitados y cada hora cambia el equipo. No se requiere inscripción.",
+    "linkInscripcion": "",
+    "whatsapp": "",
+    "instagram": "https://www.instagram.com/reel/Db9cfbXAvWw/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    "contactoClave": "",
+    "funciones": "Donación de sangre, transporte de insumos y organización.",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "palacio-de-los-deportes",
+    "nombre": "Palacio de los Deportes",
+    "direccion": "Calle 63 # 59A-06",
+    "voluntariosUrgentes": false,
+    "actualizadoEn": "2026-08-13T15:25:46-05:00",
+    "horarios": "8:00 a.m. - 8:00 p.m.",
+    "notas": "",
+    "linkInscripcion": "",
+    "whatsapp": "",
+    "instagram": "",
+    "contactoClave": "",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "camion-cra-14-83",
+    "nombre": "Camión Cra. 14 # 83",
+    "direccion": "Cra. 14 # 83-53",
+    "voluntariosUrgentes": false,
+    "actualizadoEn": "2026-08-13T15:25:46-05:00",
+    "horarios": "3:00 p.m. - 9:00 p.m.",
+    "notas": "Necesitan voluntarios jueves 13, viernes 14, sábado 15 y domingo 16. El transporte sale el lunes festivo.",
+    "linkInscripcion": "",
+    "whatsapp": "https://chat.whatsapp.com/Dee6lDBdRwiH416RFhJyU6?mode=gi_t&fbclid=PAcGRvZgRleHRuA2FlbQIxMQBzcnJjBmFwcF9pZAwyNTYyODEwNDA1NTgAAadLQ8SyrIV8iEJ3Pbl2h-LkallaHfHtsGq6klT_mhTF5DMGOkJGR6tRUmbK2w_aem_4AmJe58Foun2nCWipJpmpg",
+    "instagram": "https://www.instagram.com/p/Db_JVQUxdjz/",
+    "contactoClave": "",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "power-the-mov",
+    "nombre": "Power The Mov",
+    "direccion": "Cra. 7 # 61-38",
+    "voluntariosUrgentes": false,
+    "actualizadoEn": "2026-08-13T15:25:46-05:00",
+    "horarios": "",
+    "notas": "A las 6:00 p.m. vuelven a necesitar voluntarios. No se requiere inscripción.",
+    "linkInscripcion": "",
+    "whatsapp": "",
+    "instagram": "https://www.instagram.com/powerthemov/",
+    "contactoClave": "3192966242",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "siberia",
+    "nombre": "Siberia",
+    "direccion": "Parque Industrial Interpark, kilómetro 6,5 autopista Medellín, Cundinamarca",
+    "voluntariosUrgentes": false,
+    "actualizadoEn": "2026-08-13T15:25:46-05:00",
+    "horarios": "8:00 a.m. - 12:00 p.m.",
+    "notas": "",
+    "linkInscripcion": "",
+    "whatsapp": "",
+    "instagram": "",
+    "contactoClave": "",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Cundinamarca",
+      "municipio": "Por confirmar"
+    }
+  },
+  {
+    "id": "casa-azul",
+    "nombre": "Casa Azul",
+    "direccion": "Carrera 20 # 45A-33",
+    "voluntariosUrgentes": false,
+    "actualizadoEn": "2026-08-13T15:25:46-05:00",
+    "horarios": "10:00 a.m. - 7:00 p.m.",
+    "notas": "Llevar cajas. Primer envío el viernes 14.",
+    "linkInscripcion": "",
+    "whatsapp": "",
+    "instagram": "",
+    "contactoClave": "",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "unicentro",
+    "nombre": "Unicentro",
+    "direccion": "Carrera 15 # 124-30",
+    "voluntariosUrgentes": false,
+    "actualizadoEn": "2026-08-13T15:25:46-05:00",
+    "horarios": "8:00 a.m. - 9:00 p.m.",
+    "notas": "Ingreso por orden de llegada. No se necesitan voluntarios hoy jueves 13 ni mañana viernes 14.",
+    "linkInscripcion": "",
+    "whatsapp": "https://chat.whatsapp.com/H6kdr3A9VVNEbDWvI9wvcf?s=cl&p=i&ilr=2",
+    "instagram": "",
+    "contactoClave": "3106486849, 3112825017, 3212160424, 3014898703, 3113882262",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "universidad-jorge-tadeo-lozano",
+    "nombre": "Universidad Jorge Tadeo Lozano",
+    "direccion": "Carrera 4 # 22-61",
+    "voluntariosUrgentes": false,
+    "actualizadoEn": "2026-08-13T15:25:46-05:00",
+    "horarios": "8:00 a.m. - 9:00 p.m.",
+    "notas": "No permite voluntarios externos, únicamente estudiantes. Por lo tanto, no hay grupo de WhatsApp.",
+    "linkInscripcion": "",
+    "whatsapp": "",
+    "instagram": "",
+    "contactoClave": "3005000023, 3222187522, 3188202682",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "fundacion-catalina-munoz",
+    "nombre": "Fundación Catalina Muñoz",
+    "direccion": "Diagonal 48 # 19-16",
+    "voluntariosUrgentes": false,
+    "actualizadoEn": "2026-08-13T15:25:46-05:00",
+    "horarios": "8:00 a.m. - 5:00 p.m. (se puede extender)",
+    "notas": "",
+    "linkInscripcion": "",
+    "whatsapp": "",
+    "instagram": "https://www.instagram.com/fcatalinamunoz/",
+    "contactoClave": "3167446507, 3002618537",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "cc-nuestro-bogota",
+    "nombre": "C.C. Nuestro Bogotá",
+    "direccion": "Carrera 86 # 55A-75",
+    "voluntariosUrgentes": false,
+    "actualizadoEn": "2026-08-13T15:25:46-05:00",
+    "horarios": "10:00 a.m. - 7:00 p.m.",
+    "notas": "Solo donaciones por ahora.",
+    "linkInscripcion": "",
+    "whatsapp": "https://chat.whatsapp.com/ILR9iNxwBZW5EMyVenX0kN?s=cl&p=i&ilr=2",
+    "instagram": "https://www.instagram.com/nuestrobogotacc/",
+    "contactoClave": "3218686079, 31108453511",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "estadio-el-campin",
+    "nombre": "Estadio El Campín",
+    "direccion": "NQS con Calle 57",
+    "voluntariosUrgentes": false,
+    "actualizadoEn": "2026-08-13T15:25:46-05:00",
+    "horarios": "7:00 a.m. - 12:00 p.m.; 1:00 p.m. - 6:00 p.m.; 6:00 p.m. - 10:00 p.m.; 10:00 p.m. - 5:00 a.m.",
+    "notas": "Voluntarios para sábado y domingo (camiseta de Colombia). A partir de las 7:00 p.m. no se requiere inscripción.",
+    "linkInscripcion": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=eLMFyErLDUae1xvpnzG_d5BrwyMuOVBCkz1jLQ2ffZlUQTZCUzBBSTZKNzFERTAwVUdQVUJPUE5WVy4u&origin=lprLink&route=shorturl",
+    "whatsapp": "https://chat.whatsapp.com/JfXRjkuQ5hH9b8GCqzEvkb?s=cl&p=i&ilr=2",
+    "instagram": "https://www.instagram.com/senciabogota/",
+    "contactoClave": "3142858657, 3154198165, 3204724711, 3005239611, 3052640665, 3107859941",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "cruz-roja",
+    "nombre": "Cruz Roja",
+    "direccion": "Carrera 24 # 73-38",
+    "voluntariosUrgentes": false,
+    "actualizadoEn": "2026-08-13T15:25:46-05:00",
+    "horarios": "24 horas",
+    "notas": "Los voluntarios se manejan internamente. No hay grupo de WhatsApp.",
+    "linkInscripcion": "",
+    "whatsapp": "",
+    "instagram": "",
+    "contactoClave": "",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "banco-de-alimentos-de-bogota",
+    "nombre": "Banco de Alimentos de Bogotá",
+    "direccion": "Calle 19A # 32-50",
+    "voluntariosUrgentes": false,
+    "actualizadoEn": "2026-08-13T15:25:46-05:00",
+    "horarios": "",
+    "notas": "Voluntariado desde el 14 de septiembre.",
+    "linkInscripcion": "https://docs.google.com/forms/d/e/1FAIpQLSfb556KyRsJfU5xrtSuqdmQMB6pff5DgR18NlbkLJ0bU2fAgg/viewform",
+    "whatsapp": "",
+    "instagram": "https://www.instagram.com/bancodealimentosbgt/",
+    "contactoClave": "3115750964",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "cric",
+    "nombre": "CRIC",
+    "direccion": "Calle 12F # 2-75",
+    "voluntariosUrgentes": false,
+    "actualizadoEn": "2026-08-13T15:25:46-05:00",
+    "horarios": "",
+    "notas": "",
+    "linkInscripcion": "https://docs.google.com/forms/d/e/1FAIpQLSdyk8YF_xPV-DHA8-iihEp9QLREXMBbHpFVzUvVPRKRpCDBeg/closedform",
+    "whatsapp": "",
+    "instagram": "",
+    "contactoClave": "",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "cc-multiplaza",
+    "nombre": "C.C. Multiplaza",
+    "direccion": "Calle 19A # 72-57",
+    "voluntariosUrgentes": false,
+    "actualizadoEn": "2026-08-13T15:25:46-05:00",
+    "horarios": "2:00 p.m. - 9:00 p.m.",
+    "notas": "",
+    "linkInscripcion": "https://forms.gle/RxBV2yA3Lac9DgGj8",
+    "whatsapp": "",
+    "instagram": "",
+    "contactoClave": "",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  },
+  {
+    "id": "unal-capilla",
+    "nombre": "UNAL Capilla",
+    "direccion": "Universidad Nacional",
+    "voluntariosUrgentes": false,
+    "actualizadoEn": "2026-08-13T15:25:46-05:00",
+    "horarios": "",
+    "notas": "Por el momento está lleno. Existe posibilidad de inscribirse desde el 25 de agosto.",
+    "linkInscripcion": "https://calendar.google.com/calendar/u/0/appointments/AcZssZ2m7wBm_GVmIVbKyjpENo3Elkts84sRmsalz5I=",
+    "whatsapp": "",
+    "instagram": "",
+    "contactoClave": "",
+    "funciones": "POR CONFIRMAR",
+    "territorio": {
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá"
+    }
+  }
+]

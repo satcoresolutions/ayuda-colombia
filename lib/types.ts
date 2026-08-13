@@ -83,3 +83,28 @@ export interface Organizacion {
   verificada: boolean;
   ultimaActualizacion: string;
 }
+
+export type PuntoVoluntariado = {
+  id: string;
+  nombre: string;
+  direccion: string;
+
+  voluntariosUrgentes: boolean;
+
+  actualizadoEn: string;
+
+  horarios?: string;
+  notas?: string;
+
+  linkInscripcion?: string;
+  whatsapp?: string;
+  instagram?: string;
+  contactoClave?: string;
+
+  funciones?: string;
+
+  territorio?: {
+    departamento?: string;
+    municipio?: string;
+  };
+};

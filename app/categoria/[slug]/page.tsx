@@ -2,15 +2,28 @@ import { notFound } from "next/navigation";
 import FiltroTerritorio from "@/components/FiltroTerritorio";
 import ListaItems from "@/components/ListaItems";
 import ListaOrganizaciones from "@/components/ListaOrganizaciones";
+import ListaVoluntariado from "@/components/ListaVoluntariado";
 import {
   getCategoriaPorSlug,
   filtrarPorTerritorio,
   getTerritorios,
   getOrganizaciones,
+  getVoluntariado,
   ordenarPorPrioridad,
 } from "@/lib/index";
 
-const CATEGORIA_ORGANIZACIONES = "organizaciones-ong";
+// Registro de categorías con forma de datos "especial" (no son Item[]).
+// Para agregar una categoría nueva de este tipo:
+// 1. Crea su tipo en lib/data/types.ts
+// 2. Crea su loader get<Nombre>() en lib/data/<nombre>.ts
+// 3. Crea su componente Lista<Nombre>.tsx
+// 4. Agrega UNA línea aquí abajo. No toques el resto de este archivo.
+const CATEGORIAS_ESPECIALES: Record<string, () => React.ReactNode> = {
+  "organizaciones-ong": () => (
+    <ListaOrganizaciones organizaciones={getOrganizaciones()} />
+  ),
+  voluntariado: () => <ListaVoluntariado puntos={getVoluntariado()} />,
+};
 
 export default async function CategoriaPage({
   params,
@@ -25,7 +38,7 @@ export default async function CategoriaPage({
   const categoria = getCategoriaPorSlug(slug);
   if (!categoria) notFound();
 
-  const esOrganizaciones = slug === CATEGORIA_ORGANIZACIONES;
+  const renderEspecial = CATEGORIAS_ESPECIALES[slug];
   const territorios = getTerritorios();
 
   return (
@@ -35,11 +48,11 @@ export default async function CategoriaPage({
           <h2 className="text-xl font-semibold">{categoria.nombre}</h2>
           <p className="text-sm text-gray-500">{categoria.descripcion}</p>
         </div>
-        {!esOrganizaciones && <FiltroTerritorio territorios={territorios} />}
+        {!renderEspecial && <FiltroTerritorio territorios={territorios} />}
       </div>
 
-      {esOrganizaciones ? (
-        <ListaOrganizaciones organizaciones={getOrganizaciones()} />
+      {renderEspecial ? (
+        renderEspecial()
       ) : (
         <ListaItems
           items={ordenarPorPrioridad(filtrarPorTerritorio(categoria, territorio))}
