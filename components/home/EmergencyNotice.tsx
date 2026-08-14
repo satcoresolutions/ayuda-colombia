@@ -1,6 +1,6 @@
 export default function EmergencyNotice() {
   return (
-    <section className="bg-white py-12 sm:py-16">
+    <section className="py-12 sm:py-16">
       <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8">
         <div className="rounded-2xl border border-amber-200 bg-amber-50 p-6 sm:p-8">
           <div className="flex gap-4">

@@ -1,0 +1,18 @@
+[
+    {
+        "id": "palacio-deportes-bogota",
+        "nombre": "Palacio de los Deportes",
+        "direccion": "Calle 63 #59A-06",
+        "ciudad": "Bogotá",
+        "departamento": "Bogotá D.C.",
+        "horario": "Confirmar horario vigente",
+        "queReciben": [
+            "Alimentos no perecederos",
+            "Ropa",
+            "Cobijas"
+        ],
+        "contacto": "",
+        "notas": "Punto de acopio de la Cruz Roja Colombiana",
+        "actualizadoEn": "2026-08-13T13:00:00-05:00"
+    }
+]

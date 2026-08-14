@@ -115,3 +115,16 @@ export type PuntoVoluntariado = {
     municipio?: string;
   };
 };
+
+export interface CentroAcopio {
+  id: string;
+  nombre: string;
+  direccion: string;
+  ciudad: string;
+  departamento: string;
+  horario: string;
+  queReciben: string[];
+  contacto?: string;
+  notas?: string;
+  actualizadoEn: string;
+}

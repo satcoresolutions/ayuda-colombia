@@ -3,3 +3,4 @@ export * from "./categorias";
 export * from "./organizaciones";
 export * from "./territorios";
 export * from "./voluntariado"
+export * from "./centros-acopio"

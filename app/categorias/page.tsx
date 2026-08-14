@@ -5,9 +5,9 @@ export default function CategoriasPage() {
   const categorias = getCategorias();
 
   return (
-    <div className="min-h-screen bg-slate-50">
+    <div className="min-h-screen">
       {/* Encabezado */}
-      <section className="border-b bg-white">
+      <section className="border-b bg-blue">
         <div className="mx-auto max-w-6xl px-5 py-12 sm:px-8 sm:py-16 lg:px-10">
           <div className="mx-auto max-w-3xl text-center">
             <p className="text-sm font-semibold uppercase tracking-wider text-red-600">
