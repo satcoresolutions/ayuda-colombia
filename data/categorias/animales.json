@@ -1,0 +1,235 @@
+[
+    {
+        "id": "concentrado-perro",
+        "nombre": "Concentrado para perro",
+        "prioridad": "alta",
+        "descripcion": "Alimento balanceado básico para perros de cualquier tamaño",
+        "cantidadRecomendada": "1 bulto pequeño por mascota",
+        "proveedores": [
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "PetSmart",
+                "tipo": "nacional",
+                "urlCompra": "https://www.petsmart.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "concentrado-gato",
+        "nombre": "Concentrado para gato",
+        "prioridad": "alta",
+        "descripcion": "Alimento balanceado básico para gatos",
+        "cantidadRecomendada": "1 bulto pequeño por mascota",
+        "proveedores": [
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "PetSmart",
+                "tipo": "nacional",
+                "urlCompra": "https://www.petsmart.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "agua-mascotas",
+        "nombre": "Agua para mascotas",
+        "prioridad": "alta",
+        "descripcion": "Agua potable para consumo animal, igual de crítica que para personas",
+        "cantidadRecomendada": "2-3L por mascota al día",
+        "proveedores": [
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "D1",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasd1.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "correas-bozales",
+        "nombre": "Correas y bozales",
+        "prioridad": "media",
+        "descripcion": "Control y seguridad del animal durante traslados o rescate",
+        "cantidadRecomendada": "1 por mascota",
+        "proveedores": [
+            {
+                "nombreTienda": "PetSmart",
+                "tipo": "nacional",
+                "urlCompra": "https://www.petsmart.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "transportadoras",
+        "nombre": "Transportadoras / jaulas de traslado",
+        "prioridad": "media",
+        "descripcion": "Traslado seguro de mascotas pequeñas y medianas durante la emergencia",
+        "cantidadRecomendada": "1 por mascota pequeña/mediana",
+        "proveedores": [
+            {
+                "nombreTienda": "PetSmart",
+                "tipo": "nacional",
+                "urlCompra": "https://www.petsmart.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "comederos-bebederos",
+        "nombre": "Comederos y bebederos plegables",
+        "prioridad": "media",
+        "descripcion": "Recipientes portátiles para alimentar y dar agua en refugios temporales",
+        "cantidadRecomendada": "1 set por mascota",
+        "proveedores": [
+            {
+                "nombreTienda": "PetSmart",
+                "tipo": "nacional",
+                "urlCompra": "https://www.petsmart.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "arena-sanitaria",
+        "nombre": "Arena sanitaria para gatos",
+        "prioridad": "media",
+        "descripcion": "Higiene básica felina en espacios de refugio",
+        "cantidadRecomendada": "1 bolsa por gato",
+        "proveedores": [
+            {
+                "nombreTienda": "PetSmart",
+                "tipo": "nacional",
+                "urlCompra": "https://www.petsmart.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "botiquin-veterinario-basico",
+        "nombre": "Botiquín veterinario básico",
+        "prioridad": "media",
+        "descripcion": "Gasas, antiséptico y vendas para primeros auxilios en animales heridos",
+        "cantidadRecomendada": "1 por punto de atención",
+        "proveedores": [
+            {
+                "nombreTienda": "PetSmart",
+                "tipo": "nacional",
+                "urlCompra": "https://www.petsmart.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Farmatodo",
+                "tipo": "nacional",
+                "urlCompra": "https://www.farmatodo.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "mantas-mascotas",
+        "nombre": "Mantas / cobijas para mascotas",
+        "prioridad": "baja",
+        "descripcion": "Protección térmica y confort en refugios temporales",
+        "cantidadRecomendada": "1 por mascota",
+        "proveedores": [
+            {
+                "nombreTienda": "PetSmart",
+                "tipo": "nacional",
+                "urlCompra": "https://www.petsmart.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "D1",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasd1.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "atencion-veterinaria",
+        "nombre": "Atención veterinaria de emergencia",
+        "prioridad": "alta",
+        "descripcion": "Consulta y tratamiento para animales heridos o enfermos; gestionar con brigadas veterinarias del punto de atención",
+        "cantidadRecomendada": "Según evaluación del caso",
+        "proveedores": []
+    }
+]

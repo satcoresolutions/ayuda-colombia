@@ -9,7 +9,13 @@ export function Header() {
           className="flex items-center gap-3"
           aria-label="Ayuda Colombia - Inicio"
         >
-          <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-red-600 text-lg text-white">
+          <div
+            className="flex h-10 w-10 items-center justify-center rounded-xl text-lg text-white shadow-sm"
+            style={{
+              background:
+                "linear-gradient(to bottom, #FCD116 0%, #FCD116 50%, #003893 50%, #003893 75%, #CE1126 75%, #CE1126 100%)",
+            }}
+          >
             🆘
           </div>
 

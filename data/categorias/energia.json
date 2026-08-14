@@ -1,0 +1,185 @@
+[
+    {
+        "id": "plantas-electricas",
+        "nombre": "Plantas eléctricas / generadores",
+        "prioridad": "alta",
+        "descripcion": "Generación de energía en puntos de atención, refugios y hospitales temporales sin red eléctrica",
+        "cantidadRecomendada": "1 por punto de atención o refugio",
+        "proveedores": [
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "paneles-solares-portatiles",
+        "nombre": "Paneles solares portátiles",
+        "prioridad": "media",
+        "descripcion": "Fuente de energía renovable para cargar equipos pequeños sin depender de combustible",
+        "cantidadRecomendada": "1 por familia o punto de atención",
+        "proveedores": [
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Falabella",
+                "tipo": "nacional",
+                "urlCompra": "https://www.falabella.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "combustible-gasolina-diesel",
+        "nombre": "Combustible (gasolina/diésel en canecas)",
+        "prioridad": "alta",
+        "descripcion": "Necesario para plantas eléctricas, maquinaria y vehículos de logística; requiere manejo y transporte seguro según normativa",
+        "cantidadRecomendada": "Según capacidad de plantas y vehículos en uso",
+        "proveedores": []
+    },
+    {
+        "id": "pilas-todas-medidas",
+        "nombre": "Pilas (AA, AAA, C, D, 9V)",
+        "prioridad": "alta",
+        "descripcion": "Necesarias para linternas, radios y equipos portátiles de uso diario",
+        "cantidadRecomendada": "1 paquete surtido por familia",
+        "proveedores": [
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "D1",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasd1.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "linternas-recargables",
+        "nombre": "Linternas recargables",
+        "prioridad": "alta",
+        "descripcion": "Iluminación reutilizable sin depender de pilas desechables",
+        "cantidadRecomendada": "1 por familia",
+        "proveedores": [
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "extensiones-electricas",
+        "nombre": "Extensiones y regletas eléctricas",
+        "prioridad": "media",
+        "descripcion": "Distribuir energía de una fuente limitada (planta o toma disponible) a varios equipos",
+        "cantidadRecomendada": "1-2 por punto de atención",
+        "proveedores": [
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "lamparas-emergencia",
+        "nombre": "Lámparas de emergencia recargables",
+        "prioridad": "media",
+        "descripcion": "Iluminación de espacios comunes en refugios durante la noche",
+        "cantidadRecomendada": "1-2 por refugio",
+        "proveedores": [
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "estufas-gas-portatiles",
+        "nombre": "Estufas de gas portátiles + cilindro",
+        "prioridad": "media",
+        "descripcion": "Cocción de alimentos sin depender de electricidad",
+        "cantidadRecomendada": "1 por familia",
+        "proveedores": [
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    }
+]

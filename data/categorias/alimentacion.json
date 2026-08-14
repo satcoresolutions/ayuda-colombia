@@ -1,0 +1,452 @@
+[
+    {
+        "id": "lentejas",
+        "nombre": "Lentejas",
+        "prioridad": "alta",
+        "descripcion": "Leguminosa no perecedera, alta en proteína",
+        "cantidadRecomendada": "500g por familia",
+        "proveedores": [
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "D1",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasd1.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "arvejas",
+        "nombre": "Arvejas secas",
+        "prioridad": "alta",
+        "descripcion": "Leguminosa no perecedera para sopas y guisos",
+        "cantidadRecomendada": "500g por familia",
+        "proveedores": [
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Ara",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasara.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "milo-chocolisto",
+        "nombre": "Milo o Choco Listo",
+        "prioridad": "media",
+        "descripcion": "Bebida en polvo achocolatada, aporte energético para niños",
+        "cantidadRecomendada": "1 tarro por familia",
+        "proveedores": [
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Olímpica",
+                "tipo": "nacional",
+                "urlCompra": "https://www.olimpica.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "atun",
+        "nombre": "Atún enlatado",
+        "prioridad": "alta",
+        "descripcion": "Proteína lista para consumir, no requiere cocción",
+        "cantidadRecomendada": "2-3 latas por persona",
+        "proveedores": [
+            {
+                "nombreTienda": "Jumbo",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasjumbo.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "D1",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasd1.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "sardinas",
+        "nombre": "Sardinas enlatadas",
+        "prioridad": "alta",
+        "descripcion": "Proteína lista para consumir, no requiere cocción",
+        "cantidadRecomendada": "2-3 latas por persona",
+        "proveedores": [
+            {
+                "nombreTienda": "Ara",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasara.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "D1",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasd1.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "arroz",
+        "nombre": "Arroz",
+        "prioridad": "alta",
+        "descripcion": "Alimento base no perecedero, alto rendimiento",
+        "cantidadRecomendada": "1kg por persona",
+        "proveedores": [
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Olímpica",
+                "tipo": "nacional",
+                "urlCompra": "https://www.olimpica.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "salchichas-lata",
+        "nombre": "Salchichas en lata",
+        "prioridad": "media",
+        "descripcion": "Proteína enlatada lista para consumir",
+        "cantidadRecomendada": "1-2 latas por persona",
+        "proveedores": [
+            {
+                "nombreTienda": "Jumbo",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasjumbo.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Carulla",
+                "tipo": "nacional",
+                "urlCompra": "https://www.carulla.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "panela",
+        "nombre": "Panela",
+        "prioridad": "media",
+        "descripcion": "Endulzante y fuente rápida de energía, no perecedero",
+        "cantidadRecomendada": "1 libra por familia",
+        "proveedores": [
+            {
+                "nombreTienda": "D1",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasd1.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Ara",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasara.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "galletas",
+        "nombre": "Galletas",
+        "prioridad": "media",
+        "descripcion": "Snack no perecedero, útil para niños y consumo rápido",
+        "cantidadRecomendada": "1-2 paquetes por persona",
+        "proveedores": [
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "D1",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasd1.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "pastas",
+        "nombre": "Pastas alimenticias",
+        "prioridad": "alta",
+        "descripcion": "Alimento base no perecedero, fácil preparación",
+        "cantidadRecomendada": "500g por familia",
+        "proveedores": [
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Olímpica",
+                "tipo": "nacional",
+                "urlCompra": "https://www.olimpica.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "azucar",
+        "nombre": "Azúcar",
+        "prioridad": "media",
+        "descripcion": "Endulzante básico no perecedero",
+        "cantidadRecomendada": "1 libra por familia",
+        "proveedores": [
+            {
+                "nombreTienda": "D1",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasd1.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Ara",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasara.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "cafe",
+        "nombre": "Café",
+        "prioridad": "baja",
+        "descripcion": "Bebida de consumo habitual, aporte de bienestar emocional",
+        "cantidadRecomendada": "1 paquete por familia",
+        "proveedores": [
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Jumbo",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasjumbo.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "leche-polvo-bebe",
+        "nombre": "Leche en polvo para bebés",
+        "prioridad": "alta",
+        "descripcion": "Fórmula infantil, crítica para lactantes sin acceso a leche materna",
+        "cantidadRecomendada": "1 tarro por bebé",
+        "proveedores": [
+            {
+                "nombreTienda": "Farmatodo",
+                "tipo": "nacional",
+                "urlCompra": "https://www.farmatodo.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "frijoles",
+        "nombre": "Frijoles",
+        "prioridad": "alta",
+        "descripcion": "Leguminosa no perecedera, alta en proteína",
+        "cantidadRecomendada": "500g por familia",
+        "proveedores": [
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "D1",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasd1.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "aceite-pequeno",
+        "nombre": "Aceite (presentación pequeña)",
+        "prioridad": "alta",
+        "descripcion": "Grasa esencial para cocción, presentación práctica para transporte",
+        "cantidadRecomendada": "1 botella pequeña por familia",
+        "proveedores": [
+            {
+                "nombreTienda": "D1",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasd1.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Ara",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasara.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "alverja",
+        "nombre": "Alverja",
+        "prioridad": "media",
+        "descripcion": "Leguminosa no perecedera para sopas y guisos",
+        "cantidadRecomendada": "500g por familia",
+        "proveedores": [
+            {
+                "nombreTienda": "Olímpica",
+                "tipo": "nacional",
+                "urlCompra": "https://www.olimpica.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Ara",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasara.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "gelatina",
+        "nombre": "Gelatina",
+        "prioridad": "baja",
+        "descripcion": "Postre no perecedero, útil para niños",
+        "cantidadRecomendada": "1-2 sobres por familia",
+        "proveedores": [
+            {
+                "nombreTienda": "D1",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasd1.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "avena",
+        "nombre": "Avena",
+        "prioridad": "media",
+        "descripcion": "Cereal no perecedero, base nutritiva para desayunos",
+        "cantidadRecomendada": "500g por familia",
+        "proveedores": [
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Jumbo",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasjumbo.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    }
+]

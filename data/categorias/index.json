@@ -42,13 +42,6 @@
     "grupo": "necesidades-basicas"
   },
   {
-    "id": "ropa-abrigo",
-    "nombre": "Ropa y abrigo",
-    "icono": "shirt",
-    "descripcion": "Prendas de vestir, cobijas y elementos de protección contra el clima",
-    "grupo": "necesidades-basicas"
-  },
-  {
     "id": "herramientas",
     "nombre": "Herramientas",
     "icono": "hammer",

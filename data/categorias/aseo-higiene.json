@@ -1,0 +1,68 @@
+[
+  {
+    "id": "papel-higienico",
+    "nombre": "Papel higiénico",
+    "prioridad": "alta",
+    "descripcion": "Insumo básico de higiene personal",
+    "cantidadRecomendada": "2 rollos por persona",
+    "proveedores": [
+      { "nombreTienda": "Éxito", "tipo": "nacional", "urlCompra": "https://www.exito.com", "departamentosCobertura": ["nacional"] },
+      { "nombreTienda": "D1", "tipo": "nacional", "urlCompra": "https://www.tiendasd1.com", "departamentosCobertura": ["nacional"] }
+    ]
+  },
+  {
+    "id": "crema-dientes",
+    "nombre": "Crema de dientes",
+    "prioridad": "alta",
+    "descripcion": "Higiene bucal básica",
+    "cantidadRecomendada": "1 tubo por persona",
+    "proveedores": [
+      { "nombreTienda": "Farmatodo", "tipo": "nacional", "urlCompra": "https://www.farmatodo.com.co", "departamentosCobertura": ["nacional"] },
+      { "nombreTienda": "Éxito", "tipo": "nacional", "urlCompra": "https://www.exito.com", "departamentosCobertura": ["nacional"] }
+    ]
+  },
+  {
+    "id": "cepillos-dientes",
+    "nombre": "Cepillos de dientes",
+    "prioridad": "alta",
+    "descripcion": "Higiene bucal básica, uso individual",
+    "cantidadRecomendada": "1 por persona",
+    "proveedores": [
+      { "nombreTienda": "Farmatodo", "tipo": "nacional", "urlCompra": "https://www.farmatodo.com.co", "departamentosCobertura": ["nacional"] },
+      { "nombreTienda": "D1", "tipo": "nacional", "urlCompra": "https://www.tiendasd1.com", "departamentosCobertura": ["nacional"] }
+    ]
+  },
+  {
+    "id": "toallas-higienicas",
+    "nombre": "Toallas higiénicas",
+    "prioridad": "alta",
+    "descripcion": "Insumo de higiene menstrual, esencial y frecuentemente escaso en emergencias",
+    "cantidadRecomendada": "1 paquete por persona menstruante",
+    "proveedores": [
+      { "nombreTienda": "Farmatodo", "tipo": "nacional", "urlCompra": "https://www.farmatodo.com.co", "departamentosCobertura": ["nacional"] },
+      { "nombreTienda": "Éxito", "tipo": "nacional", "urlCompra": "https://www.exito.com", "departamentosCobertura": ["nacional"] }
+    ]
+  },
+  {
+    "id": "panales-adulto",
+    "nombre": "Pañales para adulto",
+    "prioridad": "alta",
+    "descripcion": "Esencial para personas mayores o con movilidad reducida",
+    "cantidadRecomendada": "1 paquete por persona que los requiera",
+    "proveedores": [
+      { "nombreTienda": "Farmatodo", "tipo": "nacional", "urlCompra": "https://www.farmatodo.com.co", "departamentosCobertura": ["nacional"] },
+      { "nombreTienda": "Cruz Verde", "tipo": "nacional", "urlCompra": "https://www.cruzverde.com.co", "departamentosCobertura": ["nacional"] }
+    ]
+  },
+  {
+    "id": "panales-bebe",
+    "nombre": "Pañales para bebé",
+    "prioridad": "alta",
+    "descripcion": "Esencial e insustituible para el cuidado de bebés y niños pequeños",
+    "cantidadRecomendada": "1 paquete por bebé",
+    "proveedores": [
+      { "nombreTienda": "Farmatodo", "tipo": "nacional", "urlCompra": "https://www.farmatodo.com.co", "departamentosCobertura": ["nacional"] },
+      { "nombreTienda": "Éxito", "tipo": "nacional", "urlCompra": "https://www.exito.com", "departamentosCobertura": ["nacional"] }
+    ]
+  }
+]

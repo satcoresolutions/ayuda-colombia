@@ -1,0 +1,252 @@
+[
+    {
+        "id": "ropa-adulto-hombre",
+        "nombre": "Ropa para hombre adulto",
+        "prioridad": "alta",
+        "descripcion": "Camisetas, pantalones y ropa interior en tallas variadas",
+        "cantidadRecomendada": "2-3 mudas por persona",
+        "proveedores": [
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "D1",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasd1.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ropa-adulto-mujer",
+        "nombre": "Ropa para mujer adulta",
+        "prioridad": "alta",
+        "descripcion": "Camisetas, pantalones y ropa interior en tallas variadas",
+        "cantidadRecomendada": "2-3 mudas por persona",
+        "proveedores": [
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "D1",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasd1.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ropa-nino-nina",
+        "nombre": "Ropa para niño y niña",
+        "prioridad": "alta",
+        "descripcion": "Mudas de ropa en tallas infantiles según edad",
+        "cantidadRecomendada": "2-3 mudas por niño",
+        "proveedores": [
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "D1",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasd1.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ropa-interior-nueva",
+        "nombre": "Ropa interior nueva",
+        "prioridad": "alta",
+        "descripcion": "Por higiene, se recomienda siempre ropa interior nueva (no de segunda mano)",
+        "cantidadRecomendada": "3 mudas por persona",
+        "proveedores": [
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "D1",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasd1.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "medias-calcetines",
+        "nombre": "Medias / calcetines",
+        "prioridad": "alta",
+        "descripcion": "Prenda básica frecuentemente escasa en donaciones",
+        "cantidadRecomendada": "3-4 pares por persona",
+        "proveedores": [
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "D1",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasd1.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "zapatos-tenis",
+        "nombre": "Zapatos / tenis cerrados",
+        "prioridad": "alta",
+        "descripcion": "Calzado cerrado para caminar sobre escombros o zonas afectadas de forma segura",
+        "cantidadRecomendada": "1 par por persona",
+        "proveedores": [
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Falabella",
+                "tipo": "nacional",
+                "urlCompra": "https://www.falabella.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "botas-lluvia",
+        "nombre": "Botas de lluvia / caucho",
+        "prioridad": "media",
+        "descripcion": "Protección en zonas con barro, lodo o inundación",
+        "cantidadRecomendada": "1 par por persona",
+        "proveedores": [
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "chaquetas-impermeables",
+        "nombre": "Chaquetas / capas impermeables",
+        "prioridad": "alta",
+        "descripcion": "Protección contra lluvia y frío en zonas de refugio temporal",
+        "cantidadRecomendada": "1 por persona",
+        "proveedores": [
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Falabella",
+                "tipo": "nacional",
+                "urlCompra": "https://www.falabella.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "cobijas-ropa-abrigo",
+        "nombre": "Cobijas térmicas",
+        "prioridad": "alta",
+        "descripcion": "Protección térmica adicional para dormir, especialmente en zonas frías",
+        "cantidadRecomendada": "1-2 por persona",
+        "proveedores": [
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "D1",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasd1.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "pijamas",
+        "nombre": "Pijamas",
+        "prioridad": "media",
+        "descripcion": "Ropa de dormir, especialmente relevante para niños y personas mayores en refugios",
+        "cantidadRecomendada": "1 muda por persona",
+        "proveedores": [
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "D1",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasd1.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    }
+]

@@ -37,7 +37,7 @@ export default function ListaItems({ items }: { items: Item[] }) {
           </div>
 
           <div className="mt-3 space-y-1 border-t pt-3">
-            {item.proveedores.map((p, i) => (
+            {(item.proveedores ?? []).map((p, i) => (
               <div
                 key={i}
                 className="flex items-center justify-between text-sm"

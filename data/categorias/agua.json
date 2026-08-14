@@ -1,0 +1,152 @@
+[
+  {
+    "id": "agua-embotellada",
+    "nombre": "Agua embotellada",
+    "prioridad": "alta",
+    "descripcion": "Agua lista para consumo directo, sin necesidad de tratamiento",
+    "cantidadRecomendada": "3L por persona al día",
+    "proveedores": [
+      {
+        "nombreTienda": "Éxito",
+        "tipo": "nacional",
+        "urlCompra": "https://www.exito.com",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      },
+      {
+        "nombreTienda": "D1",
+        "tipo": "nacional",
+        "urlCompra": "https://www.tiendasd1.com",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bidones-agua",
+    "nombre": "Bidones / garrafones de agua",
+    "prioridad": "alta",
+    "descripcion": "Presentación de gran volumen para reducir viajes de reabastecimiento",
+    "cantidadRecomendada": "1 bidón de 5-20L por familia",
+    "proveedores": [
+      {
+        "nombreTienda": "Éxito",
+        "tipo": "nacional",
+        "urlCompra": "https://www.exito.com",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      },
+      {
+        "nombreTienda": "Homecenter",
+        "tipo": "nacional",
+        "urlCompra": "https://www.homecenter.com.co",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tanques-almacenamiento",
+    "nombre": "Tanques de almacenamiento de agua",
+    "prioridad": "media",
+    "descripcion": "Almacenamiento de mayor capacidad para varios días, útil en refugios o comunidades",
+    "cantidadRecomendada": "Según tamaño de la comunidad o refugio",
+    "proveedores": [
+      {
+        "nombreTienda": "Homecenter",
+        "tipo": "nacional",
+        "urlCompra": "https://www.homecenter.com.co",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      },
+      {
+        "nombreTienda": "Sodimac",
+        "tipo": "nacional",
+        "urlCompra": "https://www.homecenter.com.co",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pastillas-purificadoras",
+    "nombre": "Pastillas potabilizadoras / purificadoras",
+    "prioridad": "alta",
+    "descripcion": "Tratamiento químico de agua no potable cuando no hay agua embotellada disponible",
+    "cantidadRecomendada": "1 caja por familia",
+    "proveedores": [
+      {
+        "nombreTienda": "Farmatodo",
+        "tipo": "nacional",
+        "urlCompra": "https://www.farmatodo.com.co",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      },
+      {
+        "nombreTienda": "Cruz Verde",
+        "tipo": "nacional",
+        "urlCompra": "https://www.cruzverde.com.co",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "filtros-agua-portatiles",
+    "nombre": "Filtros de agua portátiles",
+    "prioridad": "media",
+    "descripcion": "Filtración mecánica de agua de fuentes no seguras, uso reutilizable",
+    "cantidadRecomendada": "1 por familia",
+    "proveedores": [
+      {
+        "nombreTienda": "Homecenter",
+        "tipo": "nacional",
+        "urlCompra": "https://www.homecenter.com.co",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      },
+      {
+        "nombreTienda": "Éxito",
+        "tipo": "nacional",
+        "urlCompra": "https://www.exito.com",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hipoclorito-sodio",
+    "nombre": "Hipoclorito de sodio (gotas para desinfectar agua)",
+    "prioridad": "media",
+    "descripcion": "Desinfección de agua en gran volumen, uso según indicaciones de dosificación",
+    "cantidadRecomendada": "1 frasco por familia",
+    "proveedores": [
+      {
+        "nombreTienda": "Farmatodo",
+        "tipo": "nacional",
+        "urlCompra": "https://www.farmatodo.com.co",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      },
+      {
+        "nombreTienda": "Cruz Verde",
+        "tipo": "nacional",
+        "urlCompra": "https://www.cruzverde.com.co",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      }
+    ]
+  }
+]

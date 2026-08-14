@@ -1,0 +1,68 @@
+[
+  {
+    "id": "leche-formula-infantil",
+    "nombre": "Leche de fórmula infantil",
+    "prioridad": "alta",
+    "descripcion": "Alimentación esencial para bebés sin acceso a lactancia materna",
+    "cantidadRecomendada": "1 tarro por bebé",
+    "proveedores": [
+      { "nombreTienda": "Farmatodo", "tipo": "nacional", "urlCompra": "https://www.farmatodo.com.co", "departamentosCobertura": ["nacional"] },
+      { "nombreTienda": "Éxito", "tipo": "nacional", "urlCompra": "https://www.exito.com", "departamentosCobertura": ["nacional"] }
+    ]
+  },
+  {
+    "id": "panales-bebe-infantil",
+    "nombre": "Pañales para bebé",
+    "prioridad": "alta",
+    "descripcion": "Insumo esencial e insustituible para el cuidado diario",
+    "cantidadRecomendada": "1 paquete por bebé",
+    "proveedores": [
+      { "nombreTienda": "Farmatodo", "tipo": "nacional", "urlCompra": "https://www.farmatodo.com.co", "departamentosCobertura": ["nacional"] },
+      { "nombreTienda": "Éxito", "tipo": "nacional", "urlCompra": "https://www.exito.com", "departamentosCobertura": ["nacional"] }
+    ]
+  },
+  {
+    "id": "toallitas-humedas-bebe",
+    "nombre": "Toallitas húmedas para bebé",
+    "prioridad": "alta",
+    "descripcion": "Higiene básica diaria para bebés y niños pequeños",
+    "cantidadRecomendada": "1 paquete por bebé",
+    "proveedores": [
+      { "nombreTienda": "Farmatodo", "tipo": "nacional", "urlCompra": "https://www.farmatodo.com.co", "departamentosCobertura": ["nacional"] },
+      { "nombreTienda": "D1", "tipo": "nacional", "urlCompra": "https://www.tiendasd1.com", "departamentosCobertura": ["nacional"] }
+    ]
+  },
+  {
+    "id": "suero-oral-pediatrico",
+    "nombre": "Suero oral pediátrico",
+    "prioridad": "alta",
+    "descripcion": "Prevención de deshidratación en niños, crítico en emergencias",
+    "cantidadRecomendada": "3-5 sobres por niño",
+    "proveedores": [
+      { "nombreTienda": "Farmatodo", "tipo": "nacional", "urlCompra": "https://www.farmatodo.com.co", "departamentosCobertura": ["nacional"] },
+      { "nombreTienda": "Cruz Verde", "tipo": "nacional", "urlCompra": "https://www.cruzverde.com.co", "departamentosCobertura": ["nacional"] }
+    ]
+  },
+  {
+    "id": "ropa-bebe-nino",
+    "nombre": "Ropa para bebé y niño",
+    "prioridad": "media",
+    "descripcion": "Mudas de ropa según edad y clima de la zona",
+    "cantidadRecomendada": "2-3 mudas por niño",
+    "proveedores": [
+      { "nombreTienda": "Éxito", "tipo": "nacional", "urlCompra": "https://www.exito.com", "departamentosCobertura": ["nacional"] },
+      { "nombreTienda": "D1", "tipo": "nacional", "urlCompra": "https://www.tiendasd1.com", "departamentosCobertura": ["nacional"] }
+    ]
+  },
+  {
+    "id": "juguetes-material-ludico",
+    "nombre": "Juguetes y material lúdico",
+    "prioridad": "media",
+    "descripcion": "Apoyo emocional y estimulación en espacios de protección infantil",
+    "cantidadRecomendada": "Variable, uso compartido en espacios adaptados",
+    "proveedores": [
+      { "nombreTienda": "Éxito", "tipo": "nacional", "urlCompra": "https://www.exito.com", "departamentosCobertura": ["nacional"] },
+      { "nombreTienda": "Falabella", "tipo": "nacional", "urlCompra": "https://www.falabella.com.co", "departamentosCobertura": ["nacional"] }
+    ]
+  }
+]

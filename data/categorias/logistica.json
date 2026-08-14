@@ -1,0 +1,193 @@
+[
+    {
+        "id": "cajas-carton",
+        "nombre": "Cajas de cartón",
+        "prioridad": "alta",
+        "descripcion": "Empaque y organización de donaciones para transporte",
+        "cantidadRecomendada": "Variable según volumen de donaciones",
+        "proveedores": [
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "cinta-embalaje",
+        "nombre": "Cinta de embalaje",
+        "prioridad": "alta",
+        "descripcion": "Sellado seguro de cajas para transporte",
+        "cantidadRecomendada": "2-3 rollos por punto de acopio",
+        "proveedores": [
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "bolsas-plasticas-resistentes",
+        "nombre": "Bolsas plásticas resistentes (industriales)",
+        "prioridad": "alta",
+        "descripcion": "Empaque de ropa, cobijas e insumos que necesitan protección contra humedad",
+        "cantidadRecomendada": "1 paquete por punto de acopio",
+        "proveedores": [
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "D1",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasd1.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "marcadores-etiquetas",
+        "nombre": "Marcadores y etiquetas",
+        "prioridad": "media",
+        "descripcion": "Identificación de contenido y destino de cada caja o bulto",
+        "cantidadRecomendada": "1 set por punto de acopio",
+        "proveedores": [
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Panamericana",
+                "tipo": "nacional",
+                "urlCompra": "https://www.panamericana.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "estibas-plataformas",
+        "nombre": "Estibas / plataformas de carga",
+        "prioridad": "media",
+        "descripcion": "Organización de carga para almacenamiento y transporte en volumen",
+        "cantidadRecomendada": "Según capacidad del punto de acopio",
+        "proveedores": [
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Ferretería Local",
+                "tipo": "regional",
+                "urlCompra": "",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "lonas-cubrir-carga",
+        "nombre": "Lonas para cubrir carga",
+        "prioridad": "media",
+        "descripcion": "Protección de mercancía en transporte terrestre contra lluvia",
+        "cantidadRecomendada": "1-2 por vehículo de transporte",
+        "proveedores": [
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Ferretería Local",
+                "tipo": "regional",
+                "urlCompra": "",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "guantes-manipulacion-carga",
+        "nombre": "Guantes para manipulación de carga",
+        "prioridad": "media",
+        "descripcion": "Protección de manos al cargar y descargar bultos pesados",
+        "cantidadRecomendada": "1-2 pares por persona en logística",
+        "proveedores": [
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "vehiculos-transporte-carga",
+        "nombre": "Vehículos de transporte de carga (camiones, camionetas)",
+        "prioridad": "alta",
+        "descripcion": "Movilización de insumos desde puntos de acopio hacia zonas afectadas; se gestiona por donación de servicio o alquiler, no es un producto de tienda",
+        "cantidadRecomendada": "Según volumen y distancia a cubrir",
+        "proveedores": []
+    },
+    {
+        "id": "combustible-transporte",
+        "nombre": "Combustible para vehículos de transporte",
+        "prioridad": "alta",
+        "descripcion": "Necesario para los viajes de movilización de ayuda; se gestiona directamente con estaciones de servicio en ruta",
+        "cantidadRecomendada": "Según distancia y número de viajes",
+        "proveedores": []
+    }
+]

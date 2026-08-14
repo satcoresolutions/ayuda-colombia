@@ -1,0 +1,252 @@
+[
+    {
+        "id": "palas",
+        "nombre": "Palas",
+        "prioridad": "alta",
+        "descripcion": "Remoción de escombros, tierra y lodo",
+        "cantidadRecomendada": "2-3 por punto de trabajo",
+        "proveedores": [
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "picas-barras",
+        "nombre": "Picas y barras",
+        "prioridad": "alta",
+        "descripcion": "Romper escombros de concreto y material compacto",
+        "cantidadRecomendada": "1-2 por punto de trabajo",
+        "proveedores": [
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Ferretería Local",
+                "tipo": "regional",
+                "urlCompra": "",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "carretillas",
+        "nombre": "Carretillas",
+        "prioridad": "alta",
+        "descripcion": "Transporte de escombros, tierra y materiales dentro de la zona de trabajo",
+        "cantidadRecomendada": "1-2 por punto de trabajo",
+        "proveedores": [
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Sodimac",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "machetes",
+        "nombre": "Machetes",
+        "prioridad": "media",
+        "descripcion": "Despejar vegetación y ramas caídas en zonas rurales afectadas",
+        "cantidadRecomendada": "1-2 por punto de trabajo",
+        "proveedores": [
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Ferretería Local",
+                "tipo": "regional",
+                "urlCompra": "",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "martillos",
+        "nombre": "Martillos",
+        "prioridad": "media",
+        "descripcion": "Reparaciones básicas de estructuras y fijación de materiales",
+        "cantidadRecomendada": "1-2 por punto de trabajo",
+        "proveedores": [
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "serruchos-segueta",
+        "nombre": "Serruchos / segueta",
+        "prioridad": "media",
+        "descripcion": "Corte de madera y estructuras dañadas durante reparaciones",
+        "cantidadRecomendada": "1 por punto de trabajo",
+        "proveedores": [
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Ferretería Local",
+                "tipo": "regional",
+                "urlCompra": "",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "guantes-trabajo-pesado",
+        "nombre": "Guantes de trabajo pesado",
+        "prioridad": "alta",
+        "descripcion": "Protección de manos al manipular escombros y herramientas",
+        "cantidadRecomendada": "1-2 pares por persona",
+        "proveedores": [
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "cintas-metricas",
+        "nombre": "Cintas métricas",
+        "prioridad": "baja",
+        "descripcion": "Medición para reparaciones y reconstrucción",
+        "cantidadRecomendada": "1 por punto de trabajo",
+        "proveedores": [
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "taladros-electricos",
+        "nombre": "Taladros eléctricos/inalámbricos",
+        "prioridad": "media",
+        "descripcion": "Reparaciones estructurales que requieren perforación o fijación rápida",
+        "cantidadRecomendada": "1 por punto de trabajo",
+        "proveedores": [
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Falabella",
+                "tipo": "nacional",
+                "urlCompra": "https://www.falabella.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "escaleras",
+        "nombre": "Escaleras",
+        "prioridad": "baja",
+        "descripcion": "Acceso a techos y estructuras elevadas para reparación",
+        "cantidadRecomendada": "1 por punto de trabajo",
+        "proveedores": [
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Sodimac",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    }
+]

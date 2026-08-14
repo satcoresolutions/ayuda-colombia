@@ -10,8 +10,193 @@
         "nombreTienda": "Farmatodo",
         "tipo": "nacional",
         "urlCompra": "https://www.farmatodo.com.co",
-        "departamentosCobertura": ["nacional"]
+        "departamentosCobertura": [
+          "nacional"
+        ]
       }
     ]
+  },
+  {
+    "id": "analgesicos-otc",
+    "nombre": "Analgésicos y antipiréticos de venta libre",
+    "prioridad": "alta",
+    "descripcion": "Acetaminofén e ibuprofeno para dolor y fiebre, presentaciones estándar de venta libre",
+    "cantidadRecomendada": "1 caja por familia",
+    "proveedores": [
+      {
+        "nombreTienda": "Farmatodo",
+        "tipo": "nacional",
+        "urlCompra": "https://www.farmatodo.com.co",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      },
+      {
+        "nombreTienda": "Cruz Verde",
+        "tipo": "nacional",
+        "urlCompra": "https://www.cruzverde.com.co",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "suero-oral",
+    "nombre": "Suero de rehidratación oral",
+    "prioridad": "alta",
+    "descripcion": "Prevención y manejo de deshidratación, crítico en emergencias",
+    "cantidadRecomendada": "3-5 sobres por persona",
+    "proveedores": [
+      {
+        "nombreTienda": "Farmatodo",
+        "tipo": "nacional",
+        "urlCompra": "https://www.farmatodo.com.co",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      },
+      {
+        "nombreTienda": "Cruz Verde",
+        "tipo": "nacional",
+        "urlCompra": "https://www.cruzverde.com.co",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gasas-vendas",
+    "nombre": "Gasas y vendas adicionales",
+    "prioridad": "alta",
+    "descripcion": "Refuerzo de insumos de curación para heridas, más allá del botiquín básico",
+    "cantidadRecomendada": "1 paquete por familia",
+    "proveedores": [
+      {
+        "nombreTienda": "Farmatodo",
+        "tipo": "nacional",
+        "urlCompra": "https://www.farmatodo.com.co",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      },
+      {
+        "nombreTienda": "Cruz Verde",
+        "tipo": "nacional",
+        "urlCompra": "https://www.cruzverde.com.co",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "antiseptico-alcohol",
+    "nombre": "Antiséptico / alcohol antiséptico",
+    "prioridad": "alta",
+    "descripcion": "Desinfección de heridas y superficies",
+    "cantidadRecomendada": "1 frasco por familia",
+    "proveedores": [
+      {
+        "nombreTienda": "Farmatodo",
+        "tipo": "nacional",
+        "urlCompra": "https://www.farmatodo.com.co",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      },
+      {
+        "nombreTienda": "Cruz Verde",
+        "tipo": "nacional",
+        "urlCompra": "https://www.cruzverde.com.co",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "guantes-latex",
+    "nombre": "Guantes desechables",
+    "prioridad": "media",
+    "descripcion": "Protección al atender heridas o prestar primeros auxilios",
+    "cantidadRecomendada": "1 caja por punto de atención",
+    "proveedores": [
+      {
+        "nombreTienda": "Farmatodo",
+        "tipo": "nacional",
+        "urlCompra": "https://www.farmatodo.com.co",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      },
+      {
+        "nombreTienda": "Homecenter",
+        "tipo": "nacional",
+        "urlCompra": "https://www.homecenter.com.co",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "repelente-insectos",
+    "nombre": "Repelente de insectos",
+    "prioridad": "media",
+    "descripcion": "Prevención de enfermedades transmitidas por vectores en refugios temporales",
+    "cantidadRecomendada": "1 frasco por familia",
+    "proveedores": [
+      {
+        "nombreTienda": "Farmatodo",
+        "tipo": "nacional",
+        "urlCompra": "https://www.farmatodo.com.co",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      },
+      {
+        "nombreTienda": "Éxito",
+        "tipo": "nacional",
+        "urlCompra": "https://www.exito.com",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "protector-solar",
+    "nombre": "Protector solar",
+    "prioridad": "baja",
+    "descripcion": "Protección para personas expuestas al sol en jornadas de trabajo o espera prolongada",
+    "cantidadRecomendada": "1 frasco por familia",
+    "proveedores": [
+      {
+        "nombreTienda": "Farmatodo",
+        "tipo": "nacional",
+        "urlCompra": "https://www.farmatodo.com.co",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      },
+      {
+        "nombreTienda": "Cruz Verde",
+        "tipo": "nacional",
+        "urlCompra": "https://www.cruzverde.com.co",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "medicamentos-cronicos",
+    "nombre": "Medicamentos para enfermedades crónicas",
+    "prioridad": "alta",
+    "descripcion": "Continuidad de tratamientos existentes (hipertensión, diabetes, etc.); requiere fórmula médica vigente",
+    "cantidadRecomendada": "Según prescripción de cada persona",
+    "proveedores": []
   }
 ]

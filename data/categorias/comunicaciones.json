@@ -1,0 +1,185 @@
+[
+    {
+        "id": "radios-comunicacion-comunitarios",
+        "nombre": "Radios de comunicación (walkie-talkie)",
+        "prioridad": "alta",
+        "descripcion": "Coordinación local cuando la red móvil falla o está saturada",
+        "cantidadRecomendada": "1 set por punto de atención",
+        "proveedores": [
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Falabella",
+                "tipo": "nacional",
+                "urlCompra": "https://www.falabella.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "celulares-basicos",
+        "nombre": "Celulares básicos",
+        "prioridad": "media",
+        "descripcion": "Comunicación básica para familias que perdieron su equipo en la emergencia",
+        "cantidadRecomendada": "1 por familia sin equipo",
+        "proveedores": [
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Falabella",
+                "tipo": "nacional",
+                "urlCompra": "https://www.falabella.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "power-banks",
+        "nombre": "Power banks / baterías portátiles",
+        "prioridad": "alta",
+        "descripcion": "Carga de celulares y radios cuando no hay electricidad disponible",
+        "cantidadRecomendada": "1 por familia",
+        "proveedores": [
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Falabella",
+                "tipo": "nacional",
+                "urlCompra": "https://www.falabella.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "cargadores-cables",
+        "nombre": "Cargadores y cables USB",
+        "prioridad": "media",
+        "descripcion": "Insumo básico para mantener equipos de comunicación funcionando",
+        "cantidadRecomendada": "1-2 por familia",
+        "proveedores": [
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "D1",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasd1.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "radios-am-fm-pilas",
+        "nombre": "Radios AM/FM a pilas",
+        "prioridad": "alta",
+        "descripcion": "Acceso a información oficial cuando no hay internet ni electricidad",
+        "cantidadRecomendada": "1 por punto de atención o refugio",
+        "proveedores": [
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "pilas-baterias",
+        "nombre": "Pilas / baterías (AA, AAA)",
+        "prioridad": "alta",
+        "descripcion": "Necesarias para radios, linternas y otros equipos de comunicación",
+        "cantidadRecomendada": "1 paquete por familia",
+        "proveedores": [
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "D1",
+                "tipo": "nacional",
+                "urlCompra": "https://www.tiendasd1.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "chips-prepago-recargas",
+        "nombre": "Chips prepago y recargas",
+        "prioridad": "media",
+        "descripcion": "Restablecer conectividad de familias sin línea activa; requiere operadores locales (Claro, Movistar, Tigo, WOM)",
+        "cantidadRecomendada": "1 por familia sin línea activa",
+        "proveedores": [
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Claro",
+                "tipo": "nacional",
+                "urlCompra": "https://www.claro.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "conectividad-satelital-zona",
+        "nombre": "Conectividad satelital / puntos de wifi de emergencia",
+        "prioridad": "alta",
+        "descripcion": "Restablecimiento de comunicación en zonas donde cayó la infraestructura celular; se coordina con operadores y UNGRD, no es un producto de compra directa",
+        "cantidadRecomendada": "Según evaluación de la zona afectada",
+        "proveedores": []
+    }
+]

@@ -20,12 +20,12 @@ export default function CategorySection() {
             </p>
 
             <h2 className="mt-2 text-2xl font-bold tracking-tight text-slate-950 sm:text-3xl">
-              ¿Qué necesitas encontrar?
+              ¿Cómo puedes ayudar?
             </h2>
 
             <p className="mt-3 max-w-2xl text-sm leading-6 text-slate-600">
-              Encuentra rápidamente los recursos organizados según las
-              principales necesidades durante una emergencia.
+              Elige una forma de colaborar y descubre qué puedes hacer para apoyar
+              a las comunidades afectadas por la emergencia.
             </p>
           </div>
 

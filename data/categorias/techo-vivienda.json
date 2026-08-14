@@ -1,38 +1,226 @@
 [
   {
-    "id": "carpa-lona",
-    "nombre": "Carpa o lona plástica impermeable",
+    "id": "carpas",
+    "nombre": "Carpas / tiendas de campaña",
     "prioridad": "alta",
-    "descripcion": "Cubre techos dañados o sirve como refugio temporal",
-    "cantidadRecomendada": "1 por familia (mín. 4x6 m)",
+    "descripcion": "Refugio temporal mientras se repara o reconstruye la vivienda",
+    "cantidadRecomendada": "1 por familia",
+    "proveedores": [
+      {
+        "nombreTienda": "Éxito",
+        "tipo": "nacional",
+        "urlCompra": "https://www.exito.com",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      },
+      {
+        "nombreTienda": "Falabella",
+        "tipo": "nacional",
+        "urlCompra": "https://www.falabella.com.co",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "colchonetas",
+    "nombre": "Colchonetas",
+    "prioridad": "alta",
+    "descripcion": "Superficie básica para dormir en refugios temporales",
+    "cantidadRecomendada": "1 por persona",
+    "proveedores": [
+      {
+        "nombreTienda": "Éxito",
+        "tipo": "nacional",
+        "urlCompra": "https://www.exito.com",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      },
+      {
+        "nombreTienda": "Homecenter",
+        "tipo": "nacional",
+        "urlCompra": "https://www.homecenter.com.co",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plastico-carpas",
+    "nombre": "Plástico / lona calibre grueso",
+    "prioridad": "alta",
+    "descripcion": "Cubierta impermeable para techos temporales y protección contra lluvia",
+    "cantidadRecomendada": "1 rollo por familia",
     "proveedores": [
       {
         "nombreTienda": "Homecenter",
         "tipo": "nacional",
         "urlCompra": "https://www.homecenter.com.co",
-        "departamentosCobertura": ["nacional"]
+        "departamentosCobertura": [
+          "nacional"
+        ]
       },
       {
-        "nombreTienda": "Ferretería local Quibdó",
-        "tipo": "local",
+        "nombreTienda": "Ferretería Local",
+        "tipo": "regional",
         "urlCompra": "",
-        "departamentosCobertura": ["choco"],
-        "ciudad": "Quibdo"
+        "departamentosCobertura": [
+          "nacional"
+        ]
       }
     ]
   },
   {
-    "id": "kit-herramientas",
-    "nombre": "Kit de herramientas básico",
+    "id": "cobijas",
+    "nombre": "Cobijas / frazadas",
+    "prioridad": "alta",
+    "descripcion": "Protección térmica, especialmente crítica en zonas frías o de noche",
+    "cantidadRecomendada": "1-2 por persona",
+    "proveedores": [
+      {
+        "nombreTienda": "Éxito",
+        "tipo": "nacional",
+        "urlCompra": "https://www.exito.com",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      },
+      {
+        "nombreTienda": "D1",
+        "tipo": "nacional",
+        "urlCompra": "https://www.tiendasd1.com",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "laminas-zinc",
+    "nombre": "Láminas de zinc",
     "prioridad": "media",
-    "descripcion": "Martillo, clavos, alicate, para reparaciones menores",
+    "descripcion": "Material para reparación de techos dañados",
+    "cantidadRecomendada": "Según área a cubrir",
+    "proveedores": [
+      {
+        "nombreTienda": "Homecenter",
+        "tipo": "nacional",
+        "urlCompra": "https://www.homecenter.com.co",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      },
+      {
+        "nombreTienda": "Ferretería Local",
+        "tipo": "regional",
+        "urlCompra": "",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "clavos-puntillas",
+    "nombre": "Clavos y puntillas",
+    "prioridad": "media",
+    "descripcion": "Insumo básico para fijar techos, tablas y reparaciones",
+    "cantidadRecomendada": "1 kg por familia",
+    "proveedores": [
+      {
+        "nombreTienda": "Homecenter",
+        "tipo": "nacional",
+        "urlCompra": "https://www.homecenter.com.co",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      },
+      {
+        "nombreTienda": "Ferretería Local",
+        "tipo": "regional",
+        "urlCompra": "",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cuerdas-lazos",
+    "nombre": "Cuerdas / lazos resistentes",
+    "prioridad": "media",
+    "descripcion": "Para asegurar carpas, plásticos y estructuras temporales",
+    "cantidadRecomendada": "1 rollo por familia",
+    "proveedores": [
+      {
+        "nombreTienda": "Homecenter",
+        "tipo": "nacional",
+        "urlCompra": "https://www.homecenter.com.co",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      },
+      {
+        "nombreTienda": "Éxito",
+        "tipo": "nacional",
+        "urlCompra": "https://www.exito.com",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toldillos",
+    "nombre": "Toldillos / mosquiteros",
+    "prioridad": "media",
+    "descripcion": "Protección contra insectos en refugios temporales, previene enfermedades",
+    "cantidadRecomendada": "1 por cama/colchoneta",
+    "proveedores": [
+      {
+        "nombreTienda": "Éxito",
+        "tipo": "nacional",
+        "urlCompra": "https://www.exito.com",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      },
+      {
+        "nombreTienda": "Farmatodo",
+        "tipo": "nacional",
+        "urlCompra": "https://www.farmatodo.com.co",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "linternas",
+    "nombre": "Linternas",
+    "prioridad": "alta",
+    "descripcion": "Iluminación básica en refugios sin electricidad",
     "cantidadRecomendada": "1 por familia",
     "proveedores": [
       {
-        "nombreTienda": "Exito",
+        "nombreTienda": "Homecenter",
+        "tipo": "nacional",
+        "urlCompra": "https://www.homecenter.com.co",
+        "departamentosCobertura": [
+          "nacional"
+        ]
+      },
+      {
+        "nombreTienda": "Éxito",
         "tipo": "nacional",
         "urlCompra": "https://www.exito.com",
-        "departamentosCobertura": ["nacional"]
+        "departamentosCobertura": [
+          "nacional"
+        ]
       }
     ]
   }

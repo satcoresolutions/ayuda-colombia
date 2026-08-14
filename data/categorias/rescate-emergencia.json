@@ -1,0 +1,260 @@
+[
+    {
+        "id": "cascos-rescate",
+        "nombre": "Cascos de protección",
+        "prioridad": "alta",
+        "descripcion": "Protección craneal para brigadistas y voluntarios en zonas de escombros",
+        "cantidadRecomendada": "1 por brigadista",
+        "proveedores": [
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "guantes-rescate",
+        "nombre": "Guantes de trabajo resistentes",
+        "prioridad": "alta",
+        "descripcion": "Protección de manos para remoción de escombros y manejo de materiales",
+        "cantidadRecomendada": "1-2 pares por brigadista",
+        "proveedores": [
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Ferretería Local",
+                "tipo": "regional",
+                "urlCompra": "",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "botas-seguridad",
+        "nombre": "Botas de seguridad",
+        "prioridad": "alta",
+        "descripcion": "Calzado con puntera reforzada para trabajo en zonas de escombros",
+        "cantidadRecomendada": "1 par por brigadista",
+        "proveedores": [
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "chalecos-reflectivos",
+        "nombre": "Chalecos reflectivos",
+        "prioridad": "media",
+        "descripcion": "Visibilidad e identificación de personal de rescate en zona",
+        "cantidadRecomendada": "1 por brigadista",
+        "proveedores": [
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "camillas",
+        "nombre": "Camillas de rescate",
+        "prioridad": "alta",
+        "descripcion": "Traslado seguro de personas heridas",
+        "cantidadRecomendada": "Según necesidad del punto de atención",
+        "proveedores": [
+            {
+                "nombreTienda": "Farmatodo",
+                "tipo": "nacional",
+                "urlCompra": "https://www.farmatodo.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "cuerdas-rescate",
+        "nombre": "Cuerdas y arneses de rescate",
+        "prioridad": "media",
+        "descripcion": "Equipo técnico para extracción y acceso en zonas de difícil alcance",
+        "cantidadRecomendada": "Según necesidad de la brigada",
+        "proveedores": [
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Ferretería Local",
+                "tipo": "regional",
+                "urlCompra": "",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "radios-comunicacion",
+        "nombre": "Radios de comunicación (walkie-talkie)",
+        "prioridad": "alta",
+        "descripcion": "Coordinación entre brigadas cuando la red móvil falla o está saturada",
+        "cantidadRecomendada": "1 set por brigada",
+        "proveedores": [
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Falabella",
+                "tipo": "nacional",
+                "urlCompra": "https://www.falabella.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "iluminacion-portatil",
+        "nombre": "Equipos de iluminación portátil",
+        "prioridad": "alta",
+        "descripcion": "Linternas de alta potencia y lámparas para operaciones nocturnas o en espacios sin luz",
+        "cantidadRecomendada": "Según necesidad de la brigada",
+        "proveedores": [
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Éxito",
+                "tipo": "nacional",
+                "urlCompra": "https://www.exito.com",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "extintores",
+        "nombre": "Extintores portátiles",
+        "prioridad": "media",
+        "descripcion": "Control de conatos de incendio en zonas de escombros o refugios",
+        "cantidadRecomendada": "1 por punto de atención",
+        "proveedores": [
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Sodimac",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "kit-extraccion-basico",
+        "nombre": "Kit de extracción básico (palas, barras, cizallas)",
+        "prioridad": "media",
+        "descripcion": "Herramientas manuales para remoción de escombros y liberación de espacios atrapados",
+        "cantidadRecomendada": "1 kit por brigada",
+        "proveedores": [
+            {
+                "nombreTienda": "Homecenter",
+                "tipo": "nacional",
+                "urlCompra": "https://www.homecenter.com.co",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            },
+            {
+                "nombreTienda": "Ferretería Local",
+                "tipo": "regional",
+                "urlCompra": "",
+                "departamentosCobertura": [
+                    "nacional"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "equipos-busqueda-rescate",
+        "nombre": "Equipos especializados de búsqueda y rescate (K9, USAR)",
+        "prioridad": "alta",
+        "descripcion": "Personal y caninos entrenados para búsqueda en estructuras colapsadas; se coordina directamente con Bomberos, Defensa Civil o Cruz Roja, no se compra",
+        "cantidadRecomendada": "Según evaluación de UNGRD/Bomberos",
+        "proveedores": []
+    }
+]
